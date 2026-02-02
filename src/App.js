@@ -1,9 +1,8 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import './App.css';
 import PlaqueGrid from './components/PlaqueGrid';
 import PlaqueModal from './components/PlaqueModal';
 import ProgressTracker from './components/ProgressTracker';
-import LoginForm from './components/LoginForm';
 import plaquesData from './data/plaques.json';
 
 function App() {
