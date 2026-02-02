@@ -1,38 +1,200 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Serif+4:wght@400;600&display=swap');
+
+:root {
+  --heritage-blue: #1a3a52;
+  --heritage-gold: #c9a961;
+  --heritage-cream: #f4f1e8;
+  --heritage-brown: #6b5744;
+  --heritage-red: #8b3a3a;
+  --text-primary: #2c2416;
+  --text-secondary: #6b5744;
+  --success-green: #4a7c59;
+  --shadow-soft: 0 2px 8px rgba(26, 58, 82, 0.08);
+  --shadow-medium: 0 4px 16px rgba(26, 58, 82, 0.12);
+  --shadow-strong: 0 8px 24px rgba(26, 58, 82, 0.16);
 }
 
-.App-logo {
-  height: 40vmin;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Source Serif 4', Georgia, serif;
+  background-color: var(--heritage-cream);
+  color: var(--text-primary);
+  line-height: 1.6;
+}
+
+.App {
+  min-height: 100vh;
+  padding-bottom: 4rem;
+}
+
+/* Header Styles */
+.app-header {
+  background: linear-gradient(135deg, var(--heritage-blue) 0%, #2d5a7a 100%);
+  color: var(--heritage-cream);
+  padding: 3rem 2rem;
+  text-align: center;
+  box-shadow: var(--shadow-strong);
+  position: relative;
+  overflow: hidden;
+}
+
+.app-header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: repeating-linear-gradient(
+    45deg,
+    transparent,
+    transparent 10px,
+    rgba(255, 255, 255, 0.03) 10px,
+    rgba(255, 255, 255, 0.03) 20px
+  );
   pointer-events: none;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header-content {
+  position: relative;
+  z-index: 1;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.site-title {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.5rem;
+  font-weight: 900;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.02em;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.site-subtitle {
+  font-size: 1.2rem;
+  font-weight: 400;
+  opacity: 0.95;
+  margin-bottom: 1.5rem;
+  letter-spacing: 0.05em;
+}
+
+.auth-button {
+  background-color: var(--heritage-gold);
+  color: var(--heritage-blue);
+  border: none;
+  padding: 0.75rem 2rem;
+  font-family: 'Source Serif 4', serif;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--shadow-medium);
+  margin-top: 1rem;
+}
+
+.auth-button:hover {
+  background-color: #dbb871;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-strong);
+}
+
+.auth-button.logged-in {
+  background-color: rgba(255, 255, 255, 0.2);
+  color: var(--heritage-cream);
+  border: 2px solid var(--heritage-cream);
+}
+
+/* Controls Section */
+.controls-section {
+  max-width: 1400px;
+  margin: 2rem auto;
+  padding: 0 2rem;
+}
+
+.search-bar {
+  margin-bottom: 1.5rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 1rem 1.5rem;
+  font-family: 'Source Serif 4', serif;
+  font-size: 1rem;
+  border: 2px solid var(--heritage-brown);
+  border-radius: 8px;
+  background-color: white;
+  color: var(--text-primary);
+  box-shadow: var(--shadow-soft);
+  transition: all 0.3s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--heritage-blue);
+  box-shadow: var(--shadow-medium);
+}
+
+.filter-buttons {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
-.App-link {
-  color: #61dafb;
+.filter-btn {
+  padding: 0.75rem 1.5rem;
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  border: 2px solid var(--heritage-brown);
+  background-color: white;
+  color: var(--text-primary);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: var(--shadow-soft);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.filter-btn:hover {
+  background-color: var(--heritage-cream);
+  transform: translateY(-2px);
+}
+
+.filter-btn.active {
+  background-color: var(--heritage-blue);
+  color: var(--heritage-cream);
+  border-color: var(--heritage-blue);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .site-title {
+    font-size: 2.5rem;
   }
-  to {
-    transform: rotate(360deg);
+
+  .site-subtitle {
+    font-size: 1rem;
+  }
+
+  .app-header {
+    padding: 2rem 1rem;
+  }
+
+  .controls-section {
+    padding: 0 1rem;
+  }
+
+  .filter-buttons {
+    flex-direction: column;
+  }
+
+  .filter-btn {
+    width: 100%;
   }
 }

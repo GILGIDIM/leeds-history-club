@@ -1,0 +1,1992 @@
+[
+  {
+    "id": 1,
+    "title": "Burley Bar Stone",
+    "location": "Inside main entrance of Leeds Building Society, The Headrow Leeds LS1 5AS",
+    "unveiler": "Lord Marshall of Leeds, President of Leeds Civic Trust, former Leader of Leeds City Council",
+    "date": "27 Nov '87",
+    "sponsor": "Leeds & Holbeck Building Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 2,
+    "title": "Louis Le Prince (1st Plaque)",
+    "location": "British Waterways, Leeds Bridge, Lower Briggate, Leeds 1",
+    "unveiler": "Mr. William Le Prince Huettle, great-grandson of Louis Le Prince",
+    "date": "13 Oct '88",
+    "sponsor": "British Waterways Board",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 3,
+    "title": "Louis Le Prince (2nd Plaque)",
+    "location": "BBC Studios, Woodhouse Lane, Leeds 2",
+    "unveiler": "Sir Richard Attenborough, Actor, Broadcaster and Film Director",
+    "date": "14 Oct '88",
+    "sponsor": "British Broadcasting Corporation",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 4,
+    "title": "Temple Mill",
+    "location": "Marshall Street, Leeds LS11 9YJ",
+    "unveiler": "Mr Bruce Taylor, Managing Director of Kay's",
+    "date": "14 Feb '89",
+    "sponsor": "Kay & Company Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 5,
+    "title": "18 Park Place",
+    "location": "18 Park Place, Leeds LS1 2SP",
+    "unveiler": "Sir Christopher Benson, Chairman, MEPC plc",
+    "date": "24 Feb '89",
+    "sponsor": "MEPC plc",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 6,
+    "title": "The Victoria Hotel",
+    "location": "Great George Street, Leeds LS1 3DL",
+    "unveiler": "Mr John Power MBE, Deputy Lord Lieutenant of West Yorkshire",
+    "date": "25 Apr '89",
+    "sponsor": "Joshua Tetley & Sons Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 7,
+    "title": "The Assembly Rooms",
+    "location": "Crown Street, Leeds 2",
+    "unveiler": "Mr Bettison (Senior)",
+    "date": "27 Apr '89",
+    "sponsor": "Mr Bruce Bettison, then Owner of Waterloo Antiques",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 8,
+    "title": "Kemplay's Academy",
+    "location": "Nash's Tudor Fish Restaurant, off New Briggate, Leeds LS2 8JE",
+    "unveiler": "Mr. Lawrence Bellhouse, Proprietor, Nash's Tudor Fish Restaurant",
+    "date": "May '89",
+    "sponsor": "Lawrence Bellhouse, Proprietor, Nash's Tudor Fish Restaurant",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 9,
+    "title": "Brodrick's Buildings",
+    "location": "Cookridge Street, Leeds LS2 3AW",
+    "unveiler": "Mr John M. Quinlan, Director, Trinity Services",
+    "date": "20 Jul '89",
+    "sponsor": "Trinity Services (Developers)",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 10,
+    "title": "The West Bar",
+    "location": "Bond Street Centre, Boar Lane, Leeds 1",
+    "unveiler": "Councillor J.L. Carter, Lord Mayor of Leeds",
+    "date": "19 Sept '89",
+    "sponsor": "Bond Street Shopping Centre Merchants' Association",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 11,
+    "title": "Park Square",
+    "location": "45 Park Square, Leeds LS1 2NP",
+    "unveiler": "Mr. Anthony Blackmore, Senior Partner, Simpson Curtis, Solicitors",
+    "date": "21 Sept '89",
+    "sponsor": "Simpson Curtis Solicitors",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 12,
+    "title": "Leeds Manor House",
+    "location": "Scarbrough Hotel Bishopsgate Street, Leeds LS1 5DY",
+    "unveiler": "Professor Maurice Beresford, , Doyen of Leeds Historians.",
+    "date": "26 Sept '89",
+    "sponsor": "Joshua Tetley & Sons Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 13,
+    "title": "St Paul's House",
+    "location": "St Paul's House, Park Square, Leeds LS1 2ND",
+    "unveiler": "Mr K.E. Reynolds, Branch Manager of the Fire Society",
+    "date": "3 Oct '89",
+    "sponsor": "Norwich Union Insurance Group",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 14,
+    "title": "Leeds Charity School",
+    "location": "Mark Lane, Leeds LS2 8JA",
+    "unveiler": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
+    "date": "30 Oct '89",
+    "sponsor": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 15,
+    "title": "Hotel Metropole",
+    "location": "King Street, Leeds LS1 2HQ",
+    "unveiler": "Lord Strathclyde, Minister for Tourism",
+    "date": "10 Nov '89",
+    "sponsor": "Crown Hotels",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 16,
+    "title": "Yorkshire Penny Bank",
+    "location": "Yorkshire Bank plc, Infirmary Street, Leeds LS1 2JP",
+    "unveiler": "Mr. David Mortimer, Controller (Marketing), Yorkshire Bank",
+    "date": "1 Feb '90",
+    "sponsor": "Yorkshire Bank plc",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 17,
+    "title": "William Hey's House",
+    "location": "Albion Place, Leeds LS1 6JL",
+    "unveiler": "Private unveiling",
+    "date": "March '90",
+    "sponsor": "Leeds Law Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 18,
+    "title": "Leeds Infirmary",
+    "location": "Leeds General Infirmary, Great George Street, Leeds LS1 3EX",
+    "unveiler": "Professor Neville Rowel MD, FRCP, Vice-President, Leeds Civic Trust",
+    "date": "12 Mar '90",
+    "sponsor": "Medical Faculty of the General Infirmary at Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 19,
+    "title": "Leeds School of Medicine",
+    "location": "Thoresby Place, Leeds LS2 9NL",
+    "unveiler": "Professor M.S. Losowsky, Dean of the Faculty of Medicine and Professor of Medicine, The University of Leeds",
+    "date": "3 Apr '90",
+    "sponsor": "Faculty of Medicine, University of Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 20,
+    "title": "Queens Court",
+    "location": "Queens Court, Lower Briggate, Leeds LS1 6LY",
+    "unveiler": "Mr. Brian Prideaux, Property Developer",
+    "date": "2 May '90",
+    "sponsor": "Brian Prideaux, Property Developer",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 21,
+    "title": "Leeds & Liverpool Canal Warehouse",
+    "location": "Canal Basin, Water Lane, Leeds 11",
+    "unveiler": "Mr. Len Davis, Leeds Canal Basin (Development) Ltd",
+    "date": "3 May '90",
+    "sponsor": "Len Davis, Leeds Canal Basin (Development) Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 22,
+    "title": "Bank of England",
+    "location": "South Parade, Leeds LS1 5QL",
+    "unveiler": "Councillor Les Carter, Lord Mayor of Leeds",
+    "date": "11 May '90",
+    "sponsor": "Bank of England",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 23,
+    "title": "A.S.L.E. & F.",
+    "location": "The Commercial Inn, Sweet Street, Leeds LS11 9TE",
+    "unveiler": "Mr. Derrick Fullick, General Secretary, A.S.L.E. & F.",
+    "date": "17 Jan '91",
+    "sponsor": "A.S.L.E. & F.",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 24,
+    "title": "The Great Synagogue",
+    "location": "Belgrave Street, Leeds LS2 8DD",
+    "unveiler": "Rabbi Dr Solomon Brown",
+    "date": "3 Feb '91",
+    "sponsor": "The United Hebrew Congregation",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 25,
+    "title": "Mill Hill Chapel and Joseph Priestley",
+    "location": "Mill Hill Chapel, corner of Park Row and City Square, Leeds LS1 5DQ",
+    "unveiler": "Mrs Eila Forrester, President of the General Assembly of Victorian and Free Christian Churches",
+    "date": "28 Mar '91",
+    "sponsor": "Leeds & Holbeck Building Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 26,
+    "title": "The Church Institute",
+    "location": "Albion Place, Leeds LS1 6JL",
+    "unveiler": "Private unveiling",
+    "date": "91",
+    "sponsor": "The British Deaf Association",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 27,
+    "title": "Coloured Cloth Hall",
+    "location": "Cloth Hall Court, Infirmary Street, Leeds LS1 2HT",
+    "unveiler": "Mr D.F.L. Sykes, Senior Partner Hepworth & Chadwick, Solicitors",
+    "date": "16 May '91",
+    "sponsor": "Hepworth & Chadwick, Solicitors",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 28,
+    "title": "Fairbairn House",
+    "location": "71 Clarendon Road, Leeds LS2 9PJ",
+    "unveiler": "Col. Alan Roberts, Pro-Chancellor, University of Leeds",
+    "date": "20 Jun '91",
+    "sponsor": "University of Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 29,
+    "title": "Atkinson Grimshaw",
+    "location": "56 Cliff Road, Hyde Park, Leeds LS6 2EZ",
+    "unveiler": "Dr Tony Moyes at the request of Mrs Sandra Wood, great-granddaughter of Atkinson Grimshaw",
+    "date": "18 Jul '91",
+    "sponsor": "Members of the Grimshaw family and North Hyde Park Neighbourhood Association",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 30,
+    "title": "John Harrison",
+    "location": "St John's Churchyard Wall New Briggate, Leeds LS2 8JA",
+    "unveiler": "Professor Neville Rowell, Vice-President of Leeds Civic Trust",
+    "date": "29 Aug '91",
+    "sponsor": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 31,
+    "title": "White Cloth Hall",
+    "location": "Crown Street, Leeds LS1 7RB",
+    "unveiler": "Mr D.J. Houghton, Managing Director, Speciality Shops plc",
+    "date": "24 Sept '91",
+    "sponsor": "Speciality Shops plc",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 32,
+    "title": "Joshua Tetley",
+    "location": "The Brewery Gates, Hunslet Road, Leeds LS10 1JQ",
+    "unveiler": "Mr Charles Tetley, Great-grandson of Joshua Tetley",
+    "date": "29 Jan '92",
+    "sponsor": "Joshua Tetley & Sons",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 33,
+    "title": "Ralph Thoresby, FRS",
+    "location": "15 Kirkgate, Leeds LS1 6BY",
+    "unveiler": "Mr Arthur Elton, President of The Thoresby Society",
+    "date": "6 Oct '92",
+    "sponsor": "The Thoresby Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 34,
+    "title": "Arthur Ransome",
+    "location": "6 Ash Grove, Leeds LS6 1AY",
+    "unveiler": "Mr Norman Willis, General Secretary of the Trades Union Congress and longstanding member of the Arthur Ransome Society",
+    "date": "2 Mar '93",
+    "sponsor": "Arthur Ransome Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 35,
+    "title": "Aire & Calder Navigation",
+    "location": "Riverside Court, Call Lane, Leeds",
+    "unveiler": "Mr. Norman Stubbs, Chief Executive, Tay Homes",
+    "date": "20 Apr '93",
+    "sponsor": "Tay Homes and British Waterways",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 36,
+    "title": "North-Eastern Railway Viaduct",
+    "location": "Swinegate end of the Viaduct, Leeds 1",
+    "unveiler": "Mr. Gerald Egan, Leeds City Station Manager",
+    "date": "27 Apr '93",
+    "sponsor": "Leeds Corporation and British Rail's Community Unit",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 37,
+    "title": "Tower Works",
+    "location": "Tower Works, Globe Road, Leeds LS11 5QU",
+    "unveiler": "Mr Martin Eagland, Chief Executive, Leeds Development Corporation",
+    "date": "25 May '93",
+    "sponsor": "Leeds Development Corporation",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 38,
+    "title": "Samuel Smiles",
+    "location": "Leeds Institute & Civic Theatre, Cookridge Street, Leeds LS2 3AD",
+    "unveiler": "Mr J. Olav Arnold, President, Leeds Civic Trust",
+    "date": "29 Mar '94",
+    "sponsor": "Leeds & Holbeck Building Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 39,
+    "title": "Fletland Mills",
+    "location": "42, The Calls, Leeds LS2 7EW",
+    "unveiler": "Mr Keith Roberts, Secretary, The Bransby Agricultural Trading Association",
+    "date": "25 May '94",
+    "sponsor": "Leeds Development Corporation and Jonathan Wix, the owner of 42 The Calls",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 40,
+    "title": "Joseph Aspdin",
+    "location": "Packhorse Yard, between Lands Lane and Briggate, Leeds LS1 6AT",
+    "unveiler": "Sir George Mosley, Chairman, British Cement Association and National Civic Trust",
+    "date": "21 Oct '94",
+    "sponsor": "British Cement Association",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 41,
+    "title": "Yorkshire Ladies' Council of Education",
+    "location": "18 Blenheim Terrace, Leeds LS2 9AR",
+    "unveiler": "The Lady Grimthorpe DCVO, Past President, Yorkshire Ladies' Council of Education",
+    "date": "2 Mar '95",
+    "sponsor": "Mr & Mrs Peter Hartley, Hillards Charitable Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 42,
+    "title": "St Aidan's Church",
+    "location": "St Aidan's Church, Roundhay Road, Leeds LS8 5QD",
+    "unveiler": "Mr Noel Squires",
+    "date": "23 Apr '95",
+    "sponsor": "Mr Noel Squires, Landlord of the New Roscoe Inn",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 43,
+    "title": "East Bar",
+    "location": "Leeds Parish Church, Kirkgate, Leeds LS2 7DJ",
+    "unveiler": "Professor Neville Rowell. Vice-President of Leeds Civic Trust",
+    "date": "23 May '95",
+    "sponsor": "Professor Neville Rowell",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 44,
+    "title": "Sir Leonard Hutton",
+    "location": "On wall of the house at 5 Fulneck, Pudsey, Leeds LS28 8NT",
+    "unveiler": "Sir Lawrence Byford, President of Yorkshire County Cricket Club",
+    "date": "14 Oct '95",
+    "sponsor": "Yorkshire County Cricket Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 45,
+    "title": "Leeds College of Art",
+    "location": "Leeds College of Art, Vernon Street, Leeds LS2 9AQ",
+    "unveiler": "Sir Alan Bowness, former Director of The Henry Moore Foundation and former Director The Tate Gallery, son-in-law of Barbara Hepworth.",
+    "date": "5 Mar '96",
+    "sponsor": "The Henry Moore Foundation",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 46,
+    "title": "First Leeds Synagogue",
+    "location": "Merrion Centre, Leeds LS2 8NG",
+    "unveiler": "Councillor Malcolm Bedford, Lord Mayor of Leeds",
+    "date": "8 Dec '96",
+    "sponsor": "Mr Edward Ziff, Town Centre Securities",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 47,
+    "title": "City Varieties Music Hall",
+    "location": "The City Varieties, Swan Street, Leeds LS1 6LW",
+    "unveiler": "Mr Paul Daniels, Magician and TV celebrity",
+    "date": "27 Mar '97",
+    "sponsor": "Friends of the City Varieties",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 48,
+    "title": "Central Higher Grade School",
+    "location": "2 Great George Street, Leeds LS2 8BA",
+    "unveiler": "Councillor Suzi Armitage, Chair of Community Benefits & Rights Committee of Leeds City Council.",
+    "date": "16 Sept '97",
+    "sponsor": "Leeds City Council",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 49,
+    "title": "Leeds Union Workhouse",
+    "location": "Thackray Medical Museum, Beckett Street, Leeds LS9 7LN",
+    "unveiler": "Mr. Paul Thackray, Founder, Thackray Medical Museum",
+    "date": "11 Feb '98",
+    "sponsor": "Thackray Medical Museum",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 50,
+    "title": "Oakwood Clock",
+    "location": "498 Roundhay Road, Leeds LS8 2HU",
+    "unveiler": "Sir James Savile, TV Celebrity and local resident",
+    "date": "7 Apr '98",
+    "sponsor": "William H Brown Estate Agents",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 51,
+    "title": "Golden Acre Park",
+    "location": "On the outside wall of the café in Golden Acre Park at Otley Road, Leeds LS16 8BQ",
+    "unveiler": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
+    "date": "25 Aug '98",
+    "sponsor": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 52,
+    "title": "Leeds Burial Ground",
+    "location": "Opposite St. James's Hospital, Beckett Street, Leeds LS9 7LS",
+    "unveiler": "Mrs Sylvia Barnard, Founder, Friends of Beckett Street Cemetery",
+    "date": "11 Sept '98",
+    "sponsor": "Mr & Mrs David Kaye, Publishers of the Funeral Services Journal",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 53,
+    "title": "Leeds School Board",
+    "location": "Civic Court, Calverley Street, Leeds LS1 3ED",
+    "unveiler": "Councillor Graham Kirkland, Lord Mayor of Leeds",
+    "date": "2 Oct '98",
+    "sponsor": "The Rushbond Group",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 54,
+    "title": "Moortown Golf Club",
+    "location": "1 plaque on the Clubhouse and 1 on the entrance gates at Mootown Golf Club, Harrogate Road, Leeds LS11 7DB",
+    "unveiler": "Mr Malcolm Tain, Club Captain",
+    "date": "11 Feb '99",
+    "sponsor": "Moortown Golf Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 55,
+    "title": "Bank Mills",
+    "location": "Rose Wharf, East Street, Leeds LS9 8EE",
+    "unveiler": "Mr Gordon Carey RIBA, Chairman of Carey Jones Architects",
+    "date": "12 Mar '99",
+    "sponsor": "Caddick Developments and Carey Jones, Architects",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 56,
+    "title": "Queen's Arcade",
+    "location": "Briggate end of Queen's Arcade, Leeds LS1 6LF",
+    "unveiler": "Councillor Keith Wakefield, Chair, Leeds City Council Development Service Group Committee",
+    "date": "28 Mar '99",
+    "sponsor": "DTZ Debenham Thorpe",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 57,
+    "title": "Meanwood Tannery",
+    "location": "Mill Pond Road, Off Monkbridge Road, Meanwood, Leeds LS6 4ED",
+    "unveiler": "Mr Fred Casperson and Mr Arthur Hopwood, distinguished local historians",
+    "date": "17 July '99",
+    "sponsor": "Country & Metropolitan Homes Northern Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 58,
+    "title": "Burmantofts Pottery",
+    "location": "Gargrave Court, off Gargrave Approach, Leeds LS9 7ED",
+    "unveiler": "Mr. George Mudie, MP",
+    "date": "10 Dec '99",
+    "sponsor": "Bramall Construction",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 59,
+    "title": "Potternewton Mansion",
+    "location": "Potternewton Mansion, Harehills Lane, Leeds LS7 4HB",
+    "unveiler": "Mr. Fabian Hamilton, MP",
+    "date": "1 Oct '99",
+    "sponsor": "Park Lane College",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 60,
+    "title": "Victoria Quarter",
+    "location": "Victoria Quarter, between Vicar Lane and Briggate, Leeds",
+    "unveiler": "Councillor Keith Parker, Lord Mayor of Leeds",
+    "date": "2 May 2000",
+    "sponsor": "The Prudential Insurance Company",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 61,
+    "title": "William Congreve",
+    "location": "Bardsey Grange, Cornmill Lane, Bardsey, Leeds LS17 9EQ",
+    "unveiler": "Mrs Bridget Ely (nee Congreve) and Councillor David Congreve, relatives of William Congreve",
+    "date": "8 July 2000",
+    "sponsor": "Councillor David Hudson who represents Wetherby District on Leeds City Council",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 62,
+    "title": "Leeds Town Hall (Millennium Blue Plaque)",
+    "location": "Inside the Calverley Street entrance of the Town Hall, Leeds",
+    "unveiler": "Councillor Bernard Atha OBE, Lord Mayor of Leeds",
+    "date": "27 Nov 2000",
+    "sponsor": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 63,
+    "title": "Kirkgate Market",
+    "location": "Vicar Lane end of Butchers' Row, Kirkgate Market, Leeds 2",
+    "unveiler": "Mr. Richard Wainwright, formerly Liberal MP for Colne Valley",
+    "date": "14 Dec 2000",
+    "sponsor": "Richard Wainwright",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 64,
+    "title": "Montague Burton",
+    "location": "Hudson Road, Leeds LS9 7DN",
+    "unveiler": "Mr Arnold Burton and Mr Raymond Burton, the twin sons of Sir Montague Burton",
+    "date": "30 Mar '01",
+    "sponsor": "The Burton Family",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 65,
+    "title": "Kirkstall Brewery",
+    "location": "Broad Road, Leeds LS5 3RX",
+    "unveiler": "Private unveiling",
+    "date": "01",
+    "sponsor": "Leeds Metropolitan University",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 66,
+    "title": "Cliff Tannery",
+    "location": "Near the entrance to Sugarwell Court, Meanwood Road, Leeds 7",
+    "unveiler": "Private unveiling",
+    "date": "01",
+    "sponsor": "Leeds Metropolitan University",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 67,
+    "title": "The Philosophical Hall",
+    "location": "HSBC Bank, Park Row, Leeds 1",
+    "unveiler": "Dr Peter Evenett, President Leeds Philosophical and Literary Society",
+    "date": "28 Jun '01",
+    "sponsor": "Leeds Philosophical and Literary Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 68,
+    "title": "Smithfield Ironworks",
+    "location": "90–94 North Street Leeds LS2 7PN",
+    "unveiler": "Councillor David Hudson, Lord Mayor of Leeds",
+    "date": "15 Jul '01",
+    "sponsor": "Road Roller Association",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 69,
+    "title": "The Grange",
+    "location": "Beckett Park, Leeds 16",
+    "unveiler": "Private unveiling",
+    "date": "Oct 01",
+    "sponsor": "Leeds Metropolitan University",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 70,
+    "title": "Permanent House",
+    "location": "Brown's Restaurant, 'The Light', The Headrow, Leeds 1",
+    "unveiler": "Mr. Arnold Ziff, OBE A former President of the Leeds Permanent Building Society",
+    "date": "16 Jan '02",
+    "sponsor": "Brown's Restaurant",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 71,
+    "title": "Ellen Heaton",
+    "location": "Swarthmore Education Centre, 6 Woodhouse Square, Leeds LS3 1AD",
+    "unveiler": "Ms. Rommi Smith Poet, performer and teacher.",
+    "date": "27 Feb '02",
+    "sponsor": "Friends of Swarthmore Education Centre and Little Woodhouse Community Association",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 72,
+    "title": "Leeds Civic Hall",
+    "location": "Millennium Square, Portland Crescent, Leeds 1",
+    "unveiler": "Mr. George Williamson, apprentice joiner, who worked on the construction of the Civic Hall",
+    "date": "10 Jun '02",
+    "sponsor": "Leeds City Council",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 73,
+    "title": "E J Arnold& Son Ltd",
+    "location": "3, Lower Briggate, Leeds LS1 4AF",
+    "unveiler": "Mr. J. Olav Arnold and Mr. Martin Arnold, great-grandsons of Emund James Arnold",
+    "date": "3 Jul '02",
+    "sponsor": "J. Olav Arnold and Family",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 74,
+    "title": "Leeds Grammar School",
+    "location": "Moorland Road Leeds LS6",
+    "unveiler": "Councillor Bryan North, Lord Mayor of Leeds with pupils Sam Best and Daniel Saffer",
+    "date": "7 Oct '02",
+    "sponsor": "Leeds Grammar School",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 75,
+    "title": "John Deakin Heaton",
+    "location": "'Claremont', 23 Clarendon Road, Leeds LS2 9NZ",
+    "unveiler": "Professor Maurice Beresford, Emeritus Professor of Economic History, Leeds University.",
+    "date": "30 Oct '02",
+    "sponsor": "Yorkshire Archaeological Society and Mrs I. A. J. Moses",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 76,
+    "title": "Sir Berkeley Moynihan",
+    "location": "33 Park Square, Leeds LS1 2PF",
+    "unveiler": "Dr C. B. Wynn Parry, grandson of Sir Berkeley Moynihan",
+    "date": "27 Jan '03",
+    "sponsor": "The Faculty of the General Infirmary at Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 77,
+    "title": "Samuel Ledgard",
+    "location": "Nelson Inn, Armley Road, Leeds LS12 2LS",
+    "unveiler": "Councillor Michael Fox, Deputy Lord Mayor of Leeds",
+    "date": "15 Apr '03",
+    "sponsor": "Samuel Ledgard Society and the Ledgard Family",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 78,
+    "title": "Frank Kidson",
+    "location": "5 Hamilton Avenue, Leeds LS7 4EG",
+    "unveiler": "Dr Vic Gammon, Chairman of Frank Kidson Memorial Fund and Senior Lecturer in Popular & World Music, Leeds University.",
+    "date": "20 May '03",
+    "sponsor": "Frank Kidson Memorial Fund",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 79,
+    "title": "Mann's Patent Steam Cart & Wagon Company Ltd",
+    "location": "Pepper Road, Hunslet, Leeds LS10 2RU",
+    "unveiler": "Councillor Neil Taggart, Lord Mayor of Leeds",
+    "date": "15 Jun '03",
+    "sponsor": "The Leeds & District Traction Engine Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 80,
+    "title": "Yorkshire Patent Steam Wagon Company",
+    "location": "Pepper Road, Hunslet Leeds LS10 2RU",
+    "unveiler": "Councillor Neil Taggart, Lord Mayor of Leeds",
+    "date": "15 Jun '03",
+    "sponsor": "The Leeds & District Traction Engine Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 81,
+    "title": "Newton House",
+    "location": "54, Spencer Place Leeds LS7 4BR",
+    "unveiler": "Mrs. Jean White, former Deputy Lord Mayor of Leeds",
+    "date": "10 Sept '03",
+    "sponsor": "Angel Group plc",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 82,
+    "title": "The Hunslet Engine Company",
+    "location": "125 Jack Lane, Hunslet, Leeds LS10 1BJ",
+    "unveiler": "Councillor Neil Taggart, Lord Mayor of Leeds",
+    "date": "21 Sept '03",
+    "sponsor": "Don Townsley, a former executive of the Company",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 83,
+    "title": "Dewhirst's and Marks & Spencer",
+    "location": "Harper Street, Leeds LS2 7EA",
+    "unveiler": "Mr. Timothy Dewhirst, Deputy Lord Lieutenant of the East Riding of Yorkshire, Chairman of Dewhirst Group Ltd, and great-grandson of Mr. Isaac Dewhirst?",
+    "date": "21 Oct '03",
+    "sponsor": "Urban Edge Group",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 84,
+    "title": "Bardon Hill Stables",
+    "location": "(Access only on foot around security gates) Weetwood Lane, Leeds 16",
+    "unveiler": "Mrs. Jacky Banyard, Sales and Marketing Director, CALA Homes (Yorkshire) Ltd.",
+    "date": "20 Nov '03",
+    "sponsor": "CALA Homes (Yorkshire) Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 85,
+    "title": "Cookridge Hall",
+    "location": "Cookridge Lane, LeedsLS16 7NL",
+    "unveiler": "Mr. Don Cole, Cookridge Historian",
+    "date": "28 Nov '03",
+    "sponsor": "Trustees of Kirke's Charity, Esporta Health and Fitness Club, and Leeds City Council.",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 86,
+    "title": "Sir John Barran MP",
+    "location": "Joseph's Well, Hanover Walk, Leeds LS3 1AB",
+    "unveiler": "Mr. Brian Walker, former Leader of Leeds City Council",
+    "date": "4 Dec '03",
+    "sponsor": "J Pullan & Sons Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 87,
+    "title": "The Middleton Railway",
+    "location": "Moor Road Station, Hunslet, Leeds LS10 2JQ",
+    "unveiler": "Councillor Neil Taggart, Lord Mayor of Leeds",
+    "date": "27 Mar '04",
+    "sponsor": "Middleton Railway Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 88,
+    "title": "Denison Hall",
+    "location": "Hanover Square, Little Woodhouse, Leeds LS3 1BW",
+    "unveiler": "Mrs. Freda Matthews, Little Woodhouse Community Campaigner",
+    "date": "15 May '04",
+    "sponsor": "Tandridge Investments Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 89,
+    "title": "Olympia Works and Robert Blackburn",
+    "location": "Tesco Supermarket, 361, Roundhay Road, Leeds LS8 4BU",
+    "unveiler": "Professor Robert Blackburn, grandson of Robert Blackburn the aviation pioneer.",
+    "date": "26 May '04",
+    "sponsor": "Philip Snaith",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 90,
+    "title": "Leeds & County Liberal Club",
+    "location": "Quebecs Hotel, Quebec Street, Leeds LS1 2HA",
+    "unveiler": "Mrs Joyce Wainwright, widow of Richard Wainwright, Liberal MP for the Colne Valley",
+    "date": "13 July '04",
+    "sponsor": "The Wainwright family",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 91,
+    "title": "The Leeds Club",
+    "location": "3 Albion Place, Leeds LS1 6JL",
+    "unveiler": "Councillor Christopher Townsley, Lord Mayor of Leeds",
+    "date": "8 Dec '04",
+    "sponsor": "Mr. Bob Isle,Honorary Secretary of The Leeds Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 92,
+    "title": "Mount St Mary's Convent, Orphanage & School",
+    "location": "Mount St Mary's Catholic High School, Ellerby Road, Leeds LS9 8LA",
+    "unveiler": "Mrs Helen Kennally, Author of the History of the Convent, Orphanage & School Mount St Mary's Schools Leeds 1853-2003",
+    "date": "26 Jan '05",
+    "sponsor": "Mount St Mary's Catholic High School",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 93,
+    "title": "Headingley Hall",
+    "location": "Headingley Hall, 5, Shire Oak Road, Leeds LS6 2DD",
+    "unveiler": "Councillor William S Hyde, Lord Mayor of Leeds and the Lady Mayoress, Mrs. Patricia Hyde.",
+    "date": "8 Jun '05",
+    "sponsor": "Westward Care (Yorkshire) Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 94,
+    "title": "Canal Gardens",
+    "location": "Canal Gardens, on the archway leading to Tropical World, Princes Avenue, Leeds LS8 1DF",
+    "unveiler": "Mrs Marjorie Ziff, President of the Friends of Roundhay Park",
+    "date": "21 Jun '05",
+    "sponsor": "Friends of Roundhay Park",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 95,
+    "title": "Dr 'Alister' MacKenzie",
+    "location": "The Corner House Club, 266 Lidgett Lane, Leeds LS17 6QE",
+    "unveiler": "Mr. J Olav Arnold, President of Leeds Civic Trust and playing member of Alwoodley Golf Club for over 60 years",
+    "date": "27 Jun '05",
+    "sponsor": "Jointly: Alwoodley Golf Club and Moortown Golf Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 96,
+    "title": "Richard Oastler",
+    "location": "The Wardrobe, St Peter's Square, Leeds 9",
+    "unveiler": "Councillor Andrew Carter, Deputy Leader, Leeds City Council, with the assistance of pupils from Fulneck School.",
+    "date": "6 Sept '05",
+    "sponsor": "Professor Neville Rowell Vice-President, Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 97,
+    "title": "John Smeaton FRS",
+    "location": "On the towpath wall atLeeds Lock, Royal Armouries, Leeds 10",
+    "unveiler": "Mr. John McKenzie, President of the Smeatonian Society of Civil Engineers",
+    "date": "6 Oct '05",
+    "sponsor": "Smeatonian Society of Civil Engineers",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 98,
+    "title": "Sir Clifford Allbutt",
+    "location": "Lyddon Hall, University of Leeds Campus Leeds LS2 9JT",
+    "unveiler": "Dr John Wales MD, FRCP, retired Consultant Physician and past Chairman of the Faculty at the General Infirmary at Leeds",
+    "date": "7 Dec '05",
+    "sponsor": "The Faculty at the General Infirmary at Leeds.",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 99,
+    "title": "Leeds General Cemetery",
+    "location": "Gatehouse, St George's Field, University of Leeds, Leeds 2",
+    "unveiler": "Dr Julie Rugg, a senior research fellow at York University and head of the Cemetery Research Group",
+    "date": "24 Apr '06",
+    "sponsor": "Mr and Mrs David Kaye",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 100,
+    "title": "Whitelocks",
+    "location": "Whitelocks Public House, Turks Head Yard, Off Briggate, Leeds 1",
+    "unveiler": "Miss Sarah Whitelock, great great granddaughter of John Lupton Whitelock, landlord and licensee in 1867.",
+    "date": "23 May '06",
+    "sponsor": "Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 101,
+    "title": "Richard Bentley FRS DD",
+    "location": "Bentley Square, Calverley Rd, Oulton, Leeds LS26 8JH",
+    "unveiler": "Mr Malcolm Brocklesby, Vice-Chairman of the Oulton Society",
+    "date": "7 Jun '06",
+    "sponsor": "The Oulton Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 102,
+    "title": "Live at Leeds",
+    "location": "University of Leeds Refectory, University of Leeds Campus Leeds 2",
+    "unveiler": "Mr. Pete Townshend and Mr. Roger Daltry, surviving members of The Who's original line-up at their famous concert on 14th February 1970",
+    "date": "17 Jun '06",
+    "sponsor": "University of Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 103,
+    "title": "The Leeds Rifles",
+    "location": "Carlton Barracks, Carlton Lane, Leeds 7",
+    "unveiler": "Dr. Ingrid Roscoe, HM Lord Lieutenant for West Yorkshire",
+    "date": "8 Nov '06",
+    "sponsor": "Reserve forces and Cadets Association for Yorkshire and the Humber",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 104,
+    "title": "Leeds Co-operative Society",
+    "location": "Gatepost at entrance to Leodis Court (opp. Temple Mill)",
+    "unveiler": "Mr David Schofield, past President of the Leeds Co-operative Society",
+    "date": "1 Mar '07",
+    "sponsor": "Leeds Co-operative Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 105,
+    "title": "Leonora Cohen JP OBE",
+    "location": "2 Claremont Villas, Clarendon Road, LS3",
+    "unveiler": "Mr Michael Meadowcroft, Chairman of the Electoral Reform Society 1989-1993",
+    "date": "6 June '07",
+    "sponsor": "Various individual sponsors",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 106,
+    "title": "J & H McLaren's Midland Engine Works",
+    "location": "Equinox Designs Ltd, 100 Jack Lane, Hunslet, LS10 1BN",
+    "unveiler": "The Lord Mayor of Leeds, Councillor Brian Cleasby",
+    "date": "17 June '07",
+    "sponsor": "The Leeds & District Traction Engine Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 107,
+    "title": "The Leeds Library",
+    "location": "18 Commercial Street, Leeds LS1",
+    "unveiler": "Deputy Lord Mayor of Leeds, Councillor Allan Taylor",
+    "date": "4 Sept '07",
+    "sponsor": "The Leeds Library",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 108,
+    "title": "William Turton",
+    "location": "64, The Calls, Leeds LS2",
+    "unveiler": "Mr John Turton",
+    "date": "28 Sept '07",
+    "sponsor": "Turton family",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 109,
+    "title": "Bramley Rugby League Football Club",
+    "location": "The Barley Mow Inn, Town Street, Bramley, LS13 3EW",
+    "unveiler": "Prof. Tony Collins, official Rugby League historian",
+    "date": "27 Nov '07",
+    "sponsor": "Engineering Plastic Supplies Ltd, Bramley",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 110,
+    "title": "Adelaide Neilson",
+    "location": "Outside main entrance to West Yorkshire Playhouse, Quarry Hill, LS2 7UP",
+    "unveiler": "Josephine Tewson, actress",
+    "date": "29 Jan '08",
+    "sponsor": "Prof. Neville Rowell",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 111,
+    "title": "BBC Radio In Leeds",
+    "location": "Foyer, BBC Broadcasting Centre, St Peter's Square, Quarry Hill",
+    "unveiler": "Mr Mark Byford, Deputy Director-General of the BBC",
+    "date": "26 June '08",
+    "sponsor": "BBC Radio Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 112,
+    "title": "Stocks Hill, Bramley",
+    "location": "Stocks Hill, Town Street, Bramley LS13",
+    "unveiler": "The Lord Mayor of Leeds, Councillor Frank Robinson",
+    "date": "27 July '08",
+    "sponsor": "Bramley History Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 113,
+    "title": "Albert Goldthorpe",
+    "location": "John Charles Centre for Sport, Middleton Grove, LS11 5DJ",
+    "unveiler": "Mr David Oxley, former Secretary General of the Rugby League and a Trustee of the Rugby League Heritage Foundation",
+    "date": "2 Dec '08",
+    "sponsor": "Stephen McGrail and family (Goldthorpe descendants)",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 114,
+    "title": "Elmete Hall",
+    "location": "Elmete Lane, Roundhay LS8 2LJ",
+    "unveiler": "No Unveiling",
+    "date": "Dec '08",
+    "sponsor": "Joe Hester",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 115,
+    "title": "Gledhow Hall",
+    "location": "On Gledhow Hall's boundary wall at the junction of Gledhow Ln, Lidgett Ln & Gledhow Wood Rd LS8 1PG",
+    "unveiler": "Councillor Frank Robinson, Lord Mayor of Leeds",
+    "date": "7 Feb '09",
+    "sponsor": "Gledhow Valley Conservation Area Group and Tillasu Estates",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 116,
+    "title": "The Yorkshire College",
+    "location": "University of Leeds campus, off Woodhouse Lane (next to the University' Great Hall)",
+    "unveiler": "Mr John-Stoddart Scott, Chairman of Grants Committee, Clothworkers' Company",
+    "date": "12 Feb '09",
+    "sponsor": "University of Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 117,
+    "title": "Lady Betty Hastings",
+    "location": "Holy Trinity Church (inside foyer of original entrance), Boar Lane",
+    "unveiler": "Dr Ingrid Roscoe, The Lord Lieutenant of West Yorkshire",
+    "date": "20 Apr '09",
+    "sponsor": "Land Securities",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 118,
+    "title": "Wortley Grammar School",
+    "location": "69 Lower Wortley Road, Leeds LS12 4SL",
+    "unveiler": "The Lord Mayor of Leeds, Councillor Judith Elliott",
+    "date": "5 June '09",
+    "sponsor": "Wortley Local History Group",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 119,
+    "title": "Hedley Verity",
+    "location": "4 Welton Grove, Leeds LS6 1ES",
+    "unveiler": "Douglas Verity, son of Headley Verity",
+    "date": "19 Aug '09",
+    "sponsor": "Yorkshire County Cricket Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 120,
+    "title": "Isabella Ford",
+    "location": "Adel Grange Residential Home, Adel Grange Close LS16 8HX",
+    "unveiler": "Frank Ford, representing the Ford family",
+    "date": "6 Oct '09",
+    "sponsor": "Adel Grange Residential Home",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 121,
+    "title": "The Mansion",
+    "location": "Roundhay Park, Leeds",
+    "unveiler": "Councillor John Procter",
+    "date": "27 Jan '10",
+    "sponsor": "Daniel Gill of Dine",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 122,
+    "title": "Rawdon College",
+    "location": "Larchwood, the former Rawdon Baptist College, Woodlands Drive, Rawdon LS19 6JZ.",
+    "unveiler": "Rev. Ernie Whalley",
+    "date": "4 Sept '10",
+    "sponsor": "Residents of Larchwood",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 123,
+    "title": "Carlton Hill Friends Meeting House",
+    "location": "Old Broadcasting House, Woodhouse Lane, Leeds, LS2 9EN.",
+    "unveiler": "Mary Rowntree",
+    "date": "9 Sept '10",
+    "sponsor": "Leeds Area Meeting of the Religious Society of Friends (Quakers)",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 124,
+    "title": "William Astbury",
+    "location": "189 Kirkstall Lane, Headingley, Leeds, LS6 3EJ",
+    "unveiler": "Adam Nelson, Professor of Chemical Biology and Director of the Astbury Centre, University of Leeds",
+    "date": "26 Nov '10",
+    "sponsor": "Thackray Museum",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 125,
+    "title": "The Crucible of Darts – The Pioneering of Televised Darts in Leeds",
+    "location": "The Leeds Irish Centre, York Road, Leeds, LS9 9NT.",
+    "unveiler": "Sid Waddell",
+    "date": "1 Dec '10",
+    "sponsor": "Sky Sports Publicity",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 126,
+    "title": "The Leeds Odd Fellows",
+    "location": "2 Queen Square, Leeds, LS2 8AF",
+    "unveiler": "Bro Alan Cole",
+    "date": "20 Jan '11",
+    "sponsor": "Leeds Odd Fellows",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 127,
+    "title": "Sir Charles Wilson MP",
+    "location": "The Northern School of Contemporary Dance, 98 Chapeltown Road, Leeds, LS7 4BH",
+    "unveiler": "Lord Mayor of Leeds, Councillor James McKenna",
+    "date": "18 May '11",
+    "sponsor": "Chapeltown Heritage Advisory Group",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 128,
+    "title": "Lady Sue Ryder of Warsaw",
+    "location": "Scarcroft Grange, Wetherby Road, Scarcroft, Leeds LS14 3HJ",
+    "unveiler": "Elizabeth and Jeromy Cheshire (daughter and son of Sue Ryder and Leonard Cheshire)",
+    "date": "25 June '11",
+    "sponsor": "Sue Ryder Prayer Fellowship",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 129,
+    "title": "Ivy Benson",
+    "location": "59 Cemetery Road, Leeds LS11",
+    "unveiler": "Councillor Angela Gabriel",
+    "date": "5 July '11",
+    "sponsor": "Beeston & Holbeck Ward Concillors, Adam Ogilvie, David Congreve and Angela Gabriel; and Ivy Benson fans Jenna Bailey, Veronica Lovell and Doug Sandle",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 130,
+    "title": "Central Station Wagon Hoist",
+    "location": "Wellington Place, Leeds LS1",
+    "unveiler": "Lord Mayor of Leeds, Councillor Rev'd Alan Taylor",
+    "date": "25 July '11",
+    "sponsor": "MEPC",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 131,
+    "title": "Gertrude Maretta Paul",
+    "location": "Bracken Edge Primary School, Newton Road, Leeds, LS7 4HE",
+    "unveiler": "Heather Paul",
+    "date": "21 Oct '11",
+    "sponsor": "Chapeltown Heritage Advisory Group",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 132,
+    "title": "Salem United Reform Church",
+    "location": "11 – 15 Hunslet Road, Leeds, LS10 1JW",
+    "unveiler": "Lord Mayor of Leeds, Councillor Rev'd Alan Taylor",
+    "date": "17 Nov '11",
+    "sponsor": "aql Limited",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 133,
+    "title": "The Rev'd Charles Jenkinson",
+    "location": "St John & St Barnabas Church, Belle Isle Road, Leeds LS10 3DN",
+    "unveiler": "Lord Mayor of Leeds, Councillor Rev'd Alan Taylor",
+    "date": "12 Feb '12",
+    "sponsor": "Diocese of Ripon & Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 134,
+    "title": "House of Faith",
+    "location": "21 Leopold Street, Chapeltown, Leeds, LS7 4DA",
+    "unveiler": "Councillor Mohammed Rafique and Ruth Sterne",
+    "date": "14 Mar '12",
+    "sponsor": "Unity Housing Association",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 135,
+    "title": "The Leeds Arts Club",
+    "location": "8 Blenheim Terrace, Leeds, LS2 9HZ",
+    "unveiler": "Dr Ingrid Roscoe, Lord Lieutenant of West Yorkshire",
+    "date": "15 May '12",
+    "sponsor": "Ben Read",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 136,
+    "title": "The Majestic Cinema",
+    "location": "City Square, Leeds, LS1",
+    "unveiler": "Lord Mayor of Leeds, Councillor Ann Castle",
+    "date": "12 July '12",
+    "sponsor": "Rushbond plc",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 137,
+    "title": "Cottage Road Cinema",
+    "location": "Cottage Road, Leeds, LS6 4DD",
+    "unveiler": "Kay Mellor OBE",
+    "date": "29 July '12",
+    "sponsor": "Far Headingley Village Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 138,
+    "title": "J R R Tolkien CBE",
+    "location": "2 Darnley Road, Leeds, LS16 5JF",
+    "unveiler": "Dr Kersten Hall",
+    "date": "1 Oct '12",
+    "sponsor": "The Tolkien Society and the University of Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 139,
+    "title": "The New Synagogue",
+    "location": "Northern School of Contemporary Dance, Chapeltown Road, Leeds, LS7 4BH",
+    "unveiler": "Judge Ian Dobkin",
+    "date": "14 Oct '12",
+    "sponsor": "The United Hebrew Congregation",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 140,
+    "title": "The Railway Roundhouse",
+    "location": "Wellington Road, Leeds, LS12 1DR",
+    "unveiler": "Paul Kirkman, Director National Railway Museum",
+    "date": "20 Nov '12",
+    "sponsor": "Leeds Commercial Limited",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 141,
+    "title": "The ORT Technical Engineering School",
+    "location": "New Horizons Community School, Newton Hill Road, Leeds, LS7 4JE",
+    "unveiler": "Sydney Sadler, Leeds Old Boy",
+    "date": "14 Apr '13",
+    "sponsor": "British ORT",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 142,
+    "title": "Leeds Trades Club",
+    "location": "Leeds Media Centre, 21 Savile Mount, Leeds, LS7 3HZ",
+    "unveiler": "Dick Banks, Chair Regional Committee, Unite; Brian Mulvey, Branch Secretary Unison Leeds Government Branch; Dave Noble, Regional President, GMB",
+    "date": "1 May '13",
+    "sponsor": "Unison, Unite, and GMB",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 143,
+    "title": "Leeds Corn Exchange",
+    "location": "Call Lane, Leeds, LS1 7RB",
+    "unveiler": "Mark Cockerill, Corn Trader",
+    "date": "16 Jul '13",
+    "sponsor": "Zurich Assurance Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 144,
+    "title": "Leeds Grand Theatre & Opera House",
+    "location": "46 New Briggate, Leeds, LS1 6NZ",
+    "unveiler": "Kay Mellor OBE",
+    "date": "23 Jul '13",
+    "sponsor": "Family and friends of the late Martin James Frazer",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 145,
+    "title": "Leeds Methodist Pioneers",
+    "location": "On the steps leading up to West Yorkshire Playhouse, Quarry Hill, Leeds, LS2 7UP",
+    "unveiler": "Rev Ruth Gee B.A. M.Litt., President of the Methodist Conference",
+    "date": "6 Oct '13",
+    "sponsor": "The Methodist Church Leeds District",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 146,
+    "title": "Headingley Rugby Ground",
+    "location": "On the wall near Leeds Rugby ticket office, St Michael's Lane, Leeds 6",
+    "unveiler": "Tony Iro, New Zealand Team Manager",
+    "date": "8 Nov '13",
+    "sponsor": "Leeds Rugby Foundation",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 147,
+    "title": "Weetwood Hall",
+    "location": "Weetwood Hall Conference Centre & Hotel, Otley Road, Leeds, LS16 5PS",
+    "unveiler": "Sheila Griffiths",
+    "date": "7 May '14",
+    "sponsor": "Weetwood Hall Conference Centre & Hotel",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 148,
+    "title": "Gipton Board School",
+    "location": "Shine, Harehills Road, Leeds, LS8 5HS",
+    "unveiler": "Councillor Judith Blake",
+    "date": "28 May '14",
+    "sponsor": "The late Irene Revie",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 149,
+    "title": "Beryl Burton OBE",
+    "location": "Beryl Burton Gardens, Queen Street, Morley, Leeds",
+    "unveiler": "Maxine Peake",
+    "date": "8 Jun '14",
+    "sponsor": "Morley Town Council, Morley Town Centre Management Board and Leeds City Council Outer South Area Committee Well-being Fund",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 150,
+    "title": "Crown Point Printing Works",
+    "location": "Leeds City College Printworks Campus, Hunslet Road, Leeds LS10 1JY",
+    "unveiler": "Lord Mayor of Leeds, Councillor David Congreve",
+    "date": "25 Jun '14",
+    "sponsor": "Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 151,
+    "title": "John Fowler",
+    "location": "Costco Car Park, Leathley Road, Leeds LS10 1BG",
+    "unveiler": "Lord Mayor of Leeds, Councillor David Congreve",
+    "date": "4 Dec '14",
+    "sponsor": "Leeds and District Traction Engine Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 152,
+    "title": "Barnbow Royal Ordnance Factory",
+    "location": "Former Factory Gates, Austhorpe Road, LS15",
+    "unveiler": "Mrs Val Orrell, former Barnbow employee",
+    "date": "20 April '15",
+    "sponsor": "Bellway Homes East Leeds Historical & Archaeological Society Leeds Civic Trust Members",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 153,
+    "title": "Mary Gawthorpe",
+    "location": "9 Warrel's Mount, Bramley, Leeds, LS13 3NU",
+    "unveiler": "Dr Jill Liddington",
+    "date": "30 April '15",
+    "sponsor": "Members & friends of Leeds Civic Trust. Bramley Ward Councillors.",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 154,
+    "title": "The South Bar",
+    "location": "Southern end of Leeds Bridge, LS10",
+    "unveiler": "Prof Neville Rowell",
+    "date": "9 June '15",
+    "sponsor": "Prof Neville Rowell",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 155,
+    "title": "Whitkirk Manor House",
+    "location": "Colton Road, Whitkirk, LS15 9AA",
+    "unveiler": "Mr Ed Anderson, High Sherriff of West Yorkshire",
+    "date": "16 Oct '15",
+    "sponsor": "Mrs D Abson and her late husband.",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 156,
+    "title": "Leeds Civic Trust 50th Anniversary Plaque / Charles Crabtree",
+    "location": "17-19 Wharf Street, LS2 7EQ",
+    "unveiler": "Mrs Elizabeth Dalziel – granddaughter of Charles Crabtree.",
+    "date": "21 Oct '15",
+    "sponsor": "Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 157,
+    "title": "Chapel Allerton Hall",
+    "location": "Gledhow Lane, LS8",
+    "unveiler": "Lord Mayor, Cllr Judith Chapman",
+    "date": "7 Nov '15",
+    "sponsor": "Gledhow Valley Conservation Area Group",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 158,
+    "title": "Thomas Edmund Harvey",
+    "location": "Rydal House, 5 Grosvenor Terrace, Headingley",
+    "unveiler": "Michael Meadowcroft, former Liberal MP",
+    "date": "6 July '16",
+    "sponsor": "Dr Jon Wood & Dr Julia Kelly",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 159,
+    "title": "Hepper House",
+    "location": "17A East Parade, LS1",
+    "unveiler": "LCC Leader, Cllr. Judith Blake",
+    "date": "13 Sept '16",
+    "sponsor": "Ibérica Restaurants Ltd",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 160,
+    "title": "The New Penny",
+    "location": "57-59 Call Lane, LS1 7BT",
+    "unveiler": "LCC Deputy Leader, Cllr. James Lewis",
+    "date": "19 Oct '16",
+    "sponsor": "Leeds City Council",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 161,
+    "title": "Herbert Sutcliffe & Sir Len Hutton",
+    "location": "Pudsey St. Lawrence Cricket Club, Tofts Rd, LS28",
+    "unveiler": "Richard and John Hutton (Sir Len Hutton's sons)",
+    "date": "30 Oct' 16",
+    "sponsor": "Pudsey St. Lawrence Cricket Club",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 162,
+    "title": "St Michael's College",
+    "location": "The Court, Clarendon Quarter, St John's Road, Leeds, LS3 1EX",
+    "unveiler": "Robin Smith",
+    "date": "27 Apr' 17",
+    "sponsor": "AIG Global Real Estates",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 163,
+    "title": "Kenneth Armitage",
+    "location": "Nelson Mandela Gardens, Millennium Square, Leeds",
+    "unveiler": "Robert Hiscox, Chair of Kenneth Armitage Foundation",
+    "date": "5 May '17",
+    "sponsor": "The Kenneth Armitage Foundation",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 164,
+    "title": "North Bar",
+    "location": "The Old Red Bus Station, 101 Vicar Lane, Leeds LS2 7NL",
+    "unveiler": "James Bailey, General Manager, Victoria Quarter",
+    "date": "30 Oct '17",
+    "sponsor": "Professor Neville Rowell",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 165,
+    "title": "Benjamin Gott",
+    "location": "Gotts Park Golf Club",
+    "unveiler": "Richard Gott, Great-great-great grandson",
+    "date": "3 Mar '18",
+    "sponsor": "Crowd funded by members of the public",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 166,
+    "title": "William Gascoigne",
+    "location": "Patel Store, Town Street, Leeds, LS10 3PN",
+    "unveiler": "David Sellers, FRAS",
+    "date": "23 Mar '18",
+    "sponsor": "Leeds Phil & Lit Society; Morley Monday Club; Institute of Physics; Society for the History of Astronomy; Leeds Astronomical Society",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 167,
+    "title": "Agnes Logan Stewart",
+    "location": "Bridge Community Church, Rider Street, LS9 7BQ",
+    "unveiler": "The Bishop of Kirkstall, Paul Slater",
+    "date": "10 Apr '18",
+    "sponsor": "Jointly by Diocese of Leeds and Leeds Minster",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 168,
+    "title": "Maurice Ellis",
+    "location": "Leeds General Infirmary, Great George Street, LS1 3EX",
+    "unveiler": "Dr Taj Hassan, President of the Royal College of Emergency Medicine, and Consultant in Emergency Medicine at Leeds Teaching Hospitals",
+    "date": "1 Jun '18",
+    "sponsor": "Leeds Teaching Hospitals NHS Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 169,
+    "title": "Marshall's Mill",
+    "location": "Marshall's Mill, Marshall Street, Leeds LS11 9YJ",
+    "unveiler": "The Lord Mayor of Leeds, Councillor Graham Latty",
+    "date": "10 Sept '18",
+    "sponsor": "Workman LLP",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 170,
+    "title": "Titus Salt",
+    "location": "91 Queen Street, Morley, Leeds LS27 8EF",
+    "unveiler": "Colonel Alan Roberts",
+    "date": "5 Oct '18",
+    "sponsor": "Morley Town Centre Management & Morley Community Archives",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 171,
+    "title": "Charles Barker Howdill",
+    "location": "14 Hanover Square, Leeds LS3",
+    "unveiler": "Duncan McCargo",
+    "date": "27 Oct '18",
+    "sponsor": "Duncan McCargo",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 172,
+    "title": "Alice Martha Bacon",
+    "location": "Corn Exchange",
+    "unveiler": "Rachel Reeves MP",
+    "date": "10 Feb '19",
+    "sponsor": "Rushbond plc, The University of Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 173,
+    "title": "Albert Johanneson",
+    "location": "Leeds United FC, East Stand",
+    "unveiler": "Samantha Jones (Albert's Grand daughter)",
+    "date": "11 Feb '19",
+    "sponsor": "Leeds United FC; Leeds United Supporters Trust; Cllr Dowson",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 174,
+    "title": "Catherine Mawer",
+    "location": "Albion Street LS1",
+    "unveiler": "Pippa Hale",
+    "date": "11 Jul 19",
+    "sponsor": "Linda O Carroll",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 175,
+    "title": "The Mawer Group",
+    "location": "Park Place",
+    "unveiler": "Jill McKnight",
+    "date": "11 Jul 19",
+    "sponsor": "The Chambers",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 177,
+    "title": "Holbeck Working Men's Club",
+    "location": "HWMC, Jenkinson's Lawn, Holbeck",
+    "unveiler": "Terry Nicholls & Ian Pickup",
+    "date": "13 Sep 19",
+    "sponsor": "Holbeck WMC",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 178,
+    "title": "R.A.H Livett",
+    "location": "76 Wykebeck Road, Gipton LS9",
+    "unveiler": "Amanda Nevill, Vi & Jim Cooper",
+    "date": "21 Sep 19",
+    "sponsor": "Leeds City Council",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 179,
+    "title": "Morley Town Hall",
+    "location": "Queen Street, Morley LS27",
+    "unveiler": "Cllr Andrew Hutchinson, Mayor of Morley",
+    "date": "4 Oct 19",
+    "sponsor": "Morley Town Centre Management & Morley Community Archives",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 180,
+    "title": "Keith Waterhouse",
+    "location": "Hunslet Library, Waterloo Street, LS10 2NS",
+    "unveiler": "Laura Collins & Anthony Clavance",
+    "date": "6 Mar 19",
+    "sponsor": "Leeds Libraries and Hunslet & Riverside Ward Councillors",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 181,
+    "title": "Jim Bullock",
+    "location": "Bowers Row, Great Preston LS26",
+    "unveiler": "Family",
+    "date": "May 20",
+    "sponsor": "Family",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 182,
+    "title": "Edith Pechey",
+    "location": "8 Park Square Leeds LS1 2LH",
+    "unveiler": "Vine Pemberton Joss",
+    "date": "20 July 21",
+    "sponsor": "DAC Beachcroft",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 183,
+    "title": "Don Robins",
+    "location": "St Georges Church, Great George St, Leeds LS1 3BR",
+    "unveiler": "Delia Robins",
+    "date": "10 Sept 21",
+    "sponsor": "Leeds Civic Trust",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 184,
+    "title": "Selig Brodetsky",
+    "location": "3 Grosvenor Road Headingley Leeds LS6 2DZ",
+    "unveiler": "Jeremy Burton",
+    "date": "10 Oct 21",
+    "sponsor": "Jeremy Burton",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 185,
+    "title": "Esther Simpson",
+    "location": "Esther Simpson Building, University of Leeds, Lyddon Terrace, LS2 9JT",
+    "unveiler": "Professor Simone Buitendijk",
+    "date": "8 Mar 22",
+    "sponsor": "University of Leeds",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 186,
+    "title": "David Oluwale",
+    "location": "Leeds Bridge, Leeds LS1",
+    "unveiler": "Professor Caryl Philips",
+    "date": "25 Apr 22",
+    "sponsor": "DOMA",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 187,
+    "title": "Alice Scatcherd",
+    "location": "Park House, 51b Queen St, Morley, Leeds LS27 8EB.",
+    "unveiler": "Dr Clive McManus and Cllr Wyn Kidger",
+    "date": "2 Aug 22",
+    "sponsor": "Morley Town Centre Management & Morley Community Archives",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 188,
+    "title": "Fanny Waterman",
+    "location": "(not yet erected)",
+    "unveiler": "(not yet erected)",
+    "date": "29 Mar 23",
+    "sponsor": "Leeds Piano Competition",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 189,
+    "title": "June Hancock",
+    "location": "Gable End Salisbury View, LS12 2AU",
+    "unveiler": "Kimberley Stubbs and Russell Hancock",
+    "date": "9 June 23",
+    "sponsor": "Irwin Mitchell LLP",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 190,
+    "title": "Bramley Baths",
+    "location": "Bramley Baths",
+    "unveiler": "Deputy Lord Lieutenant, Marley Parker",
+    "date": "9 Sep 23",
+    "sponsor": "Bramley Baths",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 191,
+    "title": "Pablo Fanque",
+    "location": "The Core shopping centre, Lands Lane",
+    "unveiler": "Chris Baltrop",
+    "date": "16 Sep 23",
+    "sponsor": "Anonymous",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 192,
+    "title": "Transvestism and Transsexualism in Modern Society (50th Anniversary of The First Trans Conference)",
+    "location": "Leeds University Union",
+    "unveiler": "Lord Mayor Cllr Al Garthwaite and Cllr Hannah Bithell",
+    "date": "15 Mar 24",
+    "sponsor": "The Faculty of Social Sciences and the Centre for Interdisciplinary Gender Studies",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 193,
+    "title": "Duncan Dallas and Elizabeth Brice",
+    "location": "Regent Lodege, Regent Street, Chapel Allerton, LS7 4PE",
+    "unveiler": "Charles Dallas (son of Duncan and Elizabeth)",
+    "date": "17 April 24",
+    "sponsor": "Funding for the plaque was from donations gratefully received from the people Leeds and beyond.",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 194,
+    "title": "Philip Naviasky",
+    "location": "579 Scothall Road, Leeds",
+    "unveiler": "Neville Lewis (Great nephew of Philip Naviasky)",
+    "date": "24 May 24",
+    "sponsor": "Funding for the plaque was from donations gratefully received from the people of Leeds and beyond.",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 195,
+    "title": "Joseph Whitwell",
+    "location": "Hollybush Conservation Centre, Broad Lane, Leeds LS5 3BP",
+    "unveiler": "Hollybush volunteer (TBC)",
+    "date": "05 June 24",
+    "sponsor": "TCV",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 196,
+    "title": "Norman Victor Watson",
+    "location": "Layton Grange, Horsforth",
+    "unveiler": "John Watson and Shelia May Watson",
+    "date": "07 Sep 24",
+    "sponsor": "Leeds Bid and Horsforth Cllr",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 197,
+    "title": "The Duchess",
+    "location": "Not yet erected",
+    "unveiler": "John Keenan",
+    "date": "14 Sept 24",
+    "sponsor": "Funding for the plaque was from donations gratefully received from the people of Leeds and beyond.",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 198,
+    "title": "The Battle of Holbeck Moor",
+    "location": "St Matthews Community Centre, St. Matthews St, Leeds LS11 9NR",
+    "unveiler": "MP Fabian Hamilton",
+    "date": "29 Sept 24",
+    "sponsor": "Stand up to Racism: Funding for the plaque was from donations gratefully received from the people of Leeds and beyond",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 199,
+    "title": "The Abolitionists of Leeds",
+    "location": "Lyddon Hall, Leeds University",
+    "unveiler": "Lord Mayor, Cllr Abigail Marshall Katung",
+    "date": "01 Oct 24",
+    "sponsor": "Leeds University",
+    "visited": false,
+    "imageUrl": null
+  },
+  {
+    "id": 200,
+    "title": "MBE Nadine Senior",
+    "location": "Northern School of Contemporary Dance",
+    "unveiler": "Gareth Senior",
+    "date": "04 Oct 24",
+    "sponsor": "Northern School of Contemporary Dance",
+    "visited": false,
+    "imageUrl": null
+  }
+]
