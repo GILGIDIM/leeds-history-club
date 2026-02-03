@@ -149,11 +149,46 @@
   margin-bottom: 2rem;
 }
 
+.image-section-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
 .modal-image-section h3 {
   font-family: 'Playfair Display', serif;
   font-size: 1.4rem;
   color: var(--heritage-blue);
-  margin-bottom: 1rem;
+  margin: 0;
+}
+
+.delete-visit-btn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  background: transparent;
+  color: var(--heritage-red);
+  border: 2px solid var(--heritage-red);
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.delete-visit-btn:hover {
+  background: var(--heritage-red);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-medium);
+}
+
+.delete-visit-btn svg {
+  width: 18px;
+  height: 18px;
 }
 
 .visit-image {
@@ -161,6 +196,23 @@
   border-radius: 8px;
   box-shadow: var(--shadow-medium);
   border: 3px solid var(--heritage-gold);
+}
+
+.upload-info {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  font-style: italic;
+}
+
+.visit-notes {
+  margin-top: 0.5rem;
+  padding: 1rem;
+  background: var(--heritage-cream);
+  border-radius: 6px;
+  border-left: 3px solid var(--heritage-gold);
+  font-size: 0.95rem;
+  line-height: 1.6;
 }
 
 .modal-upload-section {
@@ -247,6 +299,40 @@
 .upload-submit-btn:disabled {
   opacity: 0.6;
   cursor: not-allowed;
+}
+
+.notes-textarea {
+  width: 100%;
+  padding: 0.875rem;
+  font-family: 'Source Serif 4', serif;
+  font-size: 0.95rem;
+  border: 2px solid var(--heritage-brown);
+  border-radius: 6px;
+  background: white;
+  color: var(--text-primary);
+  resize: vertical;
+  min-height: 80px;
+  transition: all 0.3s ease;
+}
+
+.notes-textarea:focus {
+  outline: none;
+  border-color: var(--heritage-blue);
+  box-shadow: 0 0 0 3px rgba(26, 58, 82, 0.1);
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-group label {
+  display: block;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
 }
 
 .modal-auth-prompt {

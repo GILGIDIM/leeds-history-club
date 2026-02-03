@@ -111,6 +111,42 @@ body {
   border: 2px solid var(--heritage-cream);
 }
 
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.welcome-text {
+  font-size: 1rem;
+  font-weight: 600;
+  color: var(--heritage-cream);
+  opacity: 0.95;
+}
+
+.loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: var(--heritage-cream);
+}
+
+.loader {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+  color: var(--heritage-blue);
+  animation: pulse 2s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
 /* Controls Section */
 .controls-section {
   max-width: 1400px;

@@ -63,6 +63,16 @@
   font-style: italic;
 }
 
+.login-error {
+  background: #fee;
+  border: 2px solid #c33;
+  color: #c33;
+  padding: 1rem;
+  border-radius: 6px;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+}
+
 .login-form {
   display: flex;
   flex-direction: column;
