@@ -379,7 +379,16 @@ function App() {
                 <line x1="6" y1="6" x2="18" y2="18"></line>
               </svg>
             </button>
-            <img src={selectedImage.imageUrl} alt={`Visit to ${selectedImage.title}`} className="full-image" />
+            <img 
+              src={selectedImage.imageUrl} 
+              alt={`Visit to ${selectedImage.title}`} 
+              className="full-image"
+              style={{ cursor: 'zoom-in' }}
+              onClick={(e) => {
+                e.target.classList.toggle('zoomed');
+                e.target.style.cursor = e.target.classList.contains('zoomed') ? 'zoom-out' : 'zoom-in';
+              }}
+            />
             <div className="image-caption">
               <h3>{selectedImage.title}</h3>
               <p>{selectedImage.location}</p>

@@ -4,7 +4,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(26, 58, 82, 0.85);
+  background: rgba(0, 0, 0, 0.95);
   backdrop-filter: blur(4px);
   z-index: 1000;
   display: flex;
@@ -24,7 +24,7 @@
 }
 
 .modal-content {
-  background: white;
+  background: var(--bg-secondary);
   border-radius: 16px;
   max-width: 700px;
   width: 100%;
@@ -34,6 +34,32 @@
   position: relative;
   animation: slideUp 0.4s cubic-bezier(0.4, 0, 0.2, 1);
   border: 3px solid var(--heritage-gold);
+}
+
+/* Custom Scrollbar */
+.modal-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal-content::-webkit-scrollbar-track {
+  background: transparent;
+  border-radius: 10px;
+}
+
+.modal-content::-webkit-scrollbar-thumb {
+  background: var(--heritage-blue);
+  border-radius: 10px;
+  opacity: 0.6;
+}
+
+.modal-content::-webkit-scrollbar-thumb:hover {
+  background: var(--heritage-gold);
+}
+
+/* For Firefox */
+.modal-content {
+  scrollbar-width: thin;
+  scrollbar-color: var(--heritage-blue) transparent;
 }
 
 @keyframes slideUp {
@@ -51,7 +77,7 @@
   position: absolute;
   top: 1.5rem;
   right: 1.5rem;
-  background: var(--heritage-blue);
+  background: rgba(255, 255, 255, 0.2);
   color: white;
   border: none;
   width: 40px;
@@ -67,13 +93,13 @@
 }
 
 .modal-close:hover {
-  background: var(--heritage-red);
+  background: rgba(255, 255, 255, 0.3);
   transform: rotate(90deg);
 }
 
 .modal-header {
-  background: linear-gradient(135deg, var(--heritage-blue) 0%, #2d5a7a 100%);
-  color: var(--heritage-cream);
+  background: linear-gradient(135deg, #1a3a52 0%, #2d5a7a 100%);
+  color: white;
   padding: 2.5rem 2rem 2rem;
   border-radius: 13px 13px 0 0;
   position: relative;
@@ -95,6 +121,7 @@
   margin-bottom: 1rem;
   line-height: 1.2;
   padding-right: 3rem;
+  color: #ffffff;
 }
 
 .modal-visited-badge {
@@ -120,8 +147,8 @@
   gap: 1.25rem;
   margin-bottom: 2rem;
   padding: 1.5rem;
-  background: var(--heritage-cream);
-  border-radius: 8px;
+  background: var(--bg-primary);
+  border-radius: 0;
   border-left: 4px solid var(--heritage-gold);
 }
 

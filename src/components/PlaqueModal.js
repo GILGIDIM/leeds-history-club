@@ -102,7 +102,7 @@ function PlaqueModal({ plaque, onClose, onImageUpload, onDeleteVisit, isAuthenti
               <img src={plaque.imageUrl} alt={`Visit to ${plaque.title}`} className="visit-image" />
               {plaque.uploadedBy && (
                 <p className="upload-info">
-                  Uploaded by {plaque.uploadedBy.includes('tom') ? 'Tom' : 'Tabitha'}
+                  Uploaded by {plaque.uploadedBy.toLowerCase().includes('thomas') || plaque.uploadedBy.toLowerCase().includes('ramsden') ? 'Tom' : 'Tabitha'}
                 </p>
               )}
               {plaque.notes && (

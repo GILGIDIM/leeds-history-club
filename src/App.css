@@ -413,6 +413,36 @@ body {
   object-fit: contain;
   border-radius: 8px;
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
+  transition: transform 0.3s ease;
+}
+
+.full-image.zoomed {
+  transform: scale(2);
+  cursor: zoom-out !important;
+}
+
+/* Custom Scrollbar for modals */
+.modal-content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.modal-content::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.modal-content::-webkit-scrollbar-thumb {
+  background: rgba(90, 142, 181, 0.4);
+  border-radius: 10px;
+}
+
+.modal-content::-webkit-scrollbar-thumb:hover {
+  background: rgba(90, 142, 181, 0.6);
+}
+
+/* For Firefox */
+.modal-content {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(90, 142, 181, 0.4) transparent;
 }
 
 .image-caption {
