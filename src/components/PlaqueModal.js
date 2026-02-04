@@ -101,7 +101,9 @@ function PlaqueModal({ plaque, onClose, onImageUpload, onDeleteVisit, isAuthenti
               </div>
               <img src={plaque.imageUrl} alt={`Visit to ${plaque.title}`} className="visit-image" />
               {plaque.uploadedBy && (
-                <p className="upload-info">Uploaded by {plaque.uploadedBy}</p>
+                <p className="upload-info">
+                  Uploaded by {plaque.uploadedBy.includes('tom') ? 'Tom' : 'Tabitha'}
+                </p>
               )}
               {plaque.notes && (
                 <p className="visit-notes">{plaque.notes}</p>

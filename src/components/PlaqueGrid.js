@@ -2,7 +2,7 @@ import React from 'react';
 import PlaqueCard from './PlaqueCard';
 import './PlaqueGrid.css';
 
-function PlaqueGrid({ plaques, onPlaqueClick }) {
+function PlaqueGrid({ plaques, onPlaqueClick, onImageClick }) {
   return (
     <div className="plaque-grid-container">
       <div className="plaque-grid">
@@ -11,6 +11,7 @@ function PlaqueGrid({ plaques, onPlaqueClick }) {
             key={plaque.id}
             plaque={plaque}
             onClick={() => onPlaqueClick(plaque)}
+            onImageClick={onImageClick}
           />
         ))}
       </div>

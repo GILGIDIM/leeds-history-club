@@ -78,7 +78,7 @@ function LoginForm({ onClose }) {
         </form>
 
         <p className="login-footer">
-          Only authorized Leeds office team members can upload photos.
+          Only authorised Leeds office team members can upload photos.
         </p>
       </div>
     </div>

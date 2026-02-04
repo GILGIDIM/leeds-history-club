@@ -1,152 +1,229 @@
-.plaque-card {
-  background: white;
-  border: 3px solid var(--heritage-brown);
-  border-radius: 12px;
-  padding: 1.5rem;
-  cursor: pointer;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: var(--shadow-soft);
-  position: relative;
-  overflow: hidden;
-  min-height: 200px;
-  display: flex;
-  flex-direction: column;
+:root {
+  /* Light theme (default off) */
+  --bg-primary-light: #f4f1e8;
+  --bg-secondary-light: #ffffff;
+  --text-primary-light: #2c2416;
+  --text-secondary-light: #6b5744;
+  --border-light: #d4c5b0;
+  
+  /* Dark theme (default) */
+  --bg-primary-dark: #1a1a1a;
+  --bg-secondary-dark: #2a2a2a;
+  --text-primary-dark: #e8e8e8;
+  --text-secondary-dark: #b0b0b0;
+  --border-dark: #3a3a3a;
+  
+  /* Heritage colors adjusted for dark theme */
+  --heritage-blue-dark: #5a8eb5;
+  --heritage-gold-dark: #d4b56f;
+  --heritage-red: #c75555;
+  --success-green-dark: #6ba37d;
+  
+  /* Unvisited plaque grey */
+  --plaque-grey-dark: #3a3a3a;
+  --plaque-grey-light: #c0c0c0;
 }
 
-.plaque-card::before {
-  content: '';
+body[data-theme="dark"] {
+  --bg-primary: var(--bg-primary-dark);
+  --bg-secondary: var(--bg-secondary-dark);
+  --text-primary: var(--text-primary-dark);
+  --text-secondary: var(--text-secondary-dark);
+  --border-color: var(--border-dark);
+  --heritage-blue: var(--heritage-blue-dark);
+  --heritage-gold: var(--heritage-gold-dark);
+  --success-green: var(--success-green-dark);
+  --plaque-grey: var(--plaque-grey-dark);
+}
+
+body[data-theme="light"] {
+  --bg-primary: var(--bg-primary-light);
+  --bg-secondary: var(--bg-secondary-light);
+  --text-primary: var(--text-primary-light);
+  --text-secondary: var(--text-secondary-light);
+  --border-color: var(--border-light);
+  --heritage-blue: #1a3a52;
+  --heritage-gold: #c9a961;
+  --success-green: #4a7c59;
+  --plaque-grey: var(--plaque-grey-light);
+}
+
+.plaque-card-new {
+  background: var(--bg-secondary);
+  border: 2px solid var(--border-color);
+  border-radius: 12px;
+  padding: 1.25rem;
+  cursor: pointer;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  min-height: 140px;
+}
+
+.plaque-card-new:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  border-color: var(--heritage-blue);
+}
+
+.plaque-card-new.unvisited {
+  opacity: 0.6;
+}
+
+.plaque-card-new.unvisited:hover {
+  opacity: 0.8;
+}
+
+/* Circular plaque on the left */
+.plaque-circle {
+  width: 110px;
+  height: 110px;
+  min-width: 110px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--plaque-grey);
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  border: 3px solid var(--heritage-blue);
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.plaque-card-new.visited .plaque-circle {
+  border-color: var(--success-green);
+  box-shadow: 0 0 20px rgba(107, 163, 125, 0.4);
+}
+
+.plaque-card-new.visited .plaque-circle:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 30px rgba(107, 163, 125, 0.6);
+}
+
+/* Overlay on photo circles */
+.circle-overlay {
   position: absolute;
   top: 0;
   left: 0;
   right: 0;
-  height: 6px;
-  background: linear-gradient(90deg, var(--heritage-blue), var(--heritage-gold));
-  transform: scaleX(0);
-  transform-origin: left;
-  transition: transform 0.3s ease;
-}
-
-.plaque-card:hover::before {
-  transform: scaleX(1);
-}
-
-.plaque-card:hover {
-  transform: translateY(-8px);
-  box-shadow: var(--shadow-strong);
-  border-color: var(--heritage-blue);
-}
-
-/* Unvisited state - greyed out */
-.plaque-card.unvisited {
-  opacity: 0.6;
-  background: linear-gradient(135deg, #f9f9f9 0%, #efefef 100%);
-}
-
-.plaque-card.unvisited:hover {
-  opacity: 0.8;
-}
-
-/* Visited state - full color */
-.plaque-card.visited {
-  background: linear-gradient(135deg, white 0%, #fffdf7 100%);
-  border-color: var(--success-green);
-}
-
-.plaque-card.visited::after {
-  content: '';
-  position: absolute;
   bottom: 0;
-  left: 0;
-  right: 0;
-  height: 4px;
-  background: var(--success-green);
+  background: linear-gradient(135deg, rgba(90, 142, 181, 0.7), rgba(107, 163, 125, 0.7));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s ease;
 }
 
+.plaque-circle:hover .circle-overlay {
+  opacity: 1;
+}
+
+.check-icon {
+  color: white;
+  filter: drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5));
+}
+
+/* Plaque number for unvisited */
 .plaque-number {
-  position: absolute;
-  top: 1rem;
-  right: 1rem;
   font-family: 'Playfair Display', serif;
-  font-size: 0.85rem;
-  font-weight: 700;
-  color: var(--heritage-gold);
-  background: var(--heritage-blue);
-  padding: 0.25rem 0.75rem;
-  border-radius: 20px;
-  box-shadow: var(--shadow-soft);
+  font-size: 1.8rem;
+  font-weight: 900;
+  color: var(--text-secondary);
 }
 
-.plaque-content {
+/* Info panel on the right */
+.plaque-info {
   flex: 1;
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  min-width: 0; /* Allow text truncation */
 }
 
 .plaque-title {
   font-family: 'Playfair Display', serif;
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   font-weight: 700;
   color: var(--text-primary);
   line-height: 1.3;
-  margin-bottom: 0.5rem;
-  padding-right: 3rem;
+  margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
 }
 
 .plaque-location {
   font-size: 0.9rem;
   color: var(--text-secondary);
   line-height: 1.4;
-  margin-bottom: 0.25rem;
+  margin: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
-  overflow: hidden;
 }
 
-.plaque-date {
-  font-size: 0.85rem;
-  color: var(--heritage-blue);
-  font-weight: 600;
-  margin-top: auto;
-  padding-top: 0.5rem;
-  border-top: 1px solid rgba(107, 87, 68, 0.2);
-}
-
-.visited-badge {
-  position: absolute;
-  top: 1rem;
-  left: 1rem;
-  width: 36px;
-  height: 36px;
+.visit-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.75rem;
   background: var(--success-green);
   color: white;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: var(--shadow-medium);
-  animation: popIn 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  width: fit-content;
+  margin-top: 0.25rem;
 }
 
-@keyframes popIn {
-  0% {
-    transform: scale(0);
-    opacity: 0;
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
+.visit-badge svg {
+  width: 14px;
+  height: 14px;
 }
 
 /* Responsive */
 @media (max-width: 768px) {
-  .plaque-card {
-    padding: 1.25rem;
+  .plaque-card-new {
+    flex-direction: column;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .plaque-circle {
+    width: 100px;
+    height: 100px;
+    min-width: 100px;
   }
 
   .plaque-title {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
+  }
+
+  .plaque-location {
+    font-size: 0.85rem;
+  }
+
+  .visit-badge {
+    margin: 0.5rem auto 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .plaque-circle {
+    width: 90px;
+    height: 90px;
+    min-width: 90px;
+  }
+
+  .plaque-number {
+    font-size: 1.5rem;
   }
 }

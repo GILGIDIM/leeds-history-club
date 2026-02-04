@@ -10,18 +10,25 @@ import { supabase } from './supabaseClient';
 function App() {
   const [plaques, setPlaques] = useState(plaquesData);
   const [selectedPlaque, setSelectedPlaque] = useState(null);
+  const [selectedImage, setSelectedImage] = useState(null);
   const [filterStatus, setFilterStatus] = useState('all'); // 'all', 'visited', 'unvisited'
   const [filterLocation, setFilterLocation] = useState('citycentre'); // 'all', 'citycentre'
   const [searchTerm, setSearchTerm] = useState('');
   const [user, setUser] = useState(null);
   const [showLogin, setShowLogin] = useState(false);
   const [loading, setLoading] = useState(true);
+  const [theme, setTheme] = useState('dark'); // 'light' or 'dark'
 
   // Load visits from Supabase on mount
   useEffect(() => {
     loadVisits();
     checkUser();
   }, []);
+
+  // Apply theme to body
+  useEffect(() => {
+    document.body.setAttribute('data-theme', theme);
+  }, [theme]);
 
   // Check if user is already logged in
   const checkUser = async () => {
@@ -97,8 +104,20 @@ function App() {
     setSelectedPlaque(plaque);
   };
 
+  const handleImageClick = (plaque) => {
+    setSelectedImage(plaque);
+  };
+
   const handleCloseModal = () => {
     setSelectedPlaque(null);
+  };
+
+  const handleCloseImageModal = () => {
+    setSelectedImage(null);
+  };
+
+  const toggleTheme = () => {
+    setTheme(prev => prev === 'dark' ? 'light' : 'dark');
   };
 
   const handleImageUpload = async (plaqueId, imageFile, notes) => {
@@ -219,24 +238,52 @@ function App() {
           <h1 className="site-title">Leeds History Club</h1>
           <p className="site-subtitle">Tracking the Blue Plaques of Leeds</p>
           
-          {!user ? (
-            <button 
-              className="auth-button"
-              onClick={handleLogin}
-            >
-              Admin Login
+          <div className="header-actions">
+            <button className="theme-toggle" onClick={toggleTheme}>
+              {theme === 'dark' ? (
+                <>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <circle cx="12" cy="12" r="5"></circle>
+                    <line x1="12" y1="1" x2="12" y2="3"></line>
+                    <line x1="12" y1="21" x2="12" y2="23"></line>
+                    <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                    <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                    <line x1="1" y1="12" x2="3" y2="12"></line>
+                    <line x1="21" y1="12" x2="23" y2="12"></line>
+                    <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                    <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                  </svg>
+                  Light Mode
+                </>
+              ) : (
+                <>
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                  </svg>
+                  Dark Mode
+                </>
+              )}
             </button>
-          ) : (
-            <div className="user-info">
-              <span className="welcome-text">Welcome, {user.email.split('@')[0]}! 👋</span>
+
+            {!user ? (
               <button 
-                className="auth-button logged-in"
-                onClick={handleLogout}
+                className="auth-button"
+                onClick={handleLogin}
               >
-                Logout
+                Admin Login
               </button>
-            </div>
-          )}
+            ) : (
+              <div className="user-info">
+                <span className="welcome-text">Welcome, {user.email.split('@')[0]}! 👋</span>
+                <button 
+                  className="auth-button logged-in"
+                  onClick={handleLogout}
+                >
+                  Logout
+                </button>
+              </div>
+            )}
+          </div>
         </div>
       </header>
 
@@ -304,6 +351,7 @@ function App() {
       <PlaqueGrid 
         plaques={filteredPlaques}
         onPlaqueClick={handlePlaqueClick}
+        onImageClick={handleImageClick}
       />
 
       {selectedPlaque && (
@@ -320,6 +368,24 @@ function App() {
         <LoginForm
           onClose={() => setShowLogin(false)}
         />
+      )}
+
+      {selectedImage && (
+        <div className="image-modal-backdrop" onClick={handleCloseImageModal}>
+          <div className="image-modal-content" onClick={(e) => e.stopPropagation()}>
+            <button className="modal-close" onClick={handleCloseImageModal}>
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                <line x1="18" y1="6" x2="6" y2="18"></line>
+                <line x1="6" y1="6" x2="18" y2="18"></line>
+              </svg>
+            </button>
+            <img src={selectedImage.imageUrl} alt={`Visit to ${selectedImage.title}`} className="full-image" />
+            <div className="image-caption">
+              <h3>{selectedImage.title}</h3>
+              <p>{selectedImage.location}</p>
+            </div>
+          </div>
+        </div>
       )}
     </div>
   );
