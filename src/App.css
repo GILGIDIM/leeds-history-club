@@ -177,6 +177,26 @@ body {
   box-shadow: var(--shadow-medium);
 }
 
+.filter-section {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.filter-group {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.filter-label {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
 .filter-buttons {
   display: flex;
   gap: 1rem;
@@ -224,6 +244,10 @@ body {
 
   .controls-section {
     padding: 0 1rem;
+  }
+
+  .filter-section {
+    gap: 1rem;
   }
 
   .filter-buttons {

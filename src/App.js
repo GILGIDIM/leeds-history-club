@@ -11,6 +11,7 @@ function App() {
   const [plaques, setPlaques] = useState(plaquesData);
   const [selectedPlaque, setSelectedPlaque] = useState(null);
   const [filterStatus, setFilterStatus] = useState('all'); // 'all', 'visited', 'unvisited'
+  const [filterLocation, setFilterLocation] = useState('citycentre'); // 'all', 'citycentre'
   const [searchTerm, setSearchTerm] = useState('');
   const [user, setUser] = useState(null);
   const [showLogin, setShowLogin] = useState(false);
@@ -66,22 +67,30 @@ function App() {
     setPlaques(updatedPlaques);
   };
 
-  // Calculate visited count
-  const visitedCount = plaques.filter(p => p.visited).length;
-  const totalCount = plaques.length;
+  // Calculate visited count based on current location filter
+  const activePlaques = filterLocation === 'citycentre' 
+    ? plaques.filter(p => p.cityCentre)
+    : plaques;
+  
+  const visitedCount = activePlaques.filter(p => p.visited).length;
+  const totalCount = activePlaques.length;
 
-  // Filter plaques based on status and search
+  // Filter plaques based on status, location, and search
   const filteredPlaques = plaques.filter(plaque => {
     const matchesFilter = 
       filterStatus === 'all' ? true :
       filterStatus === 'visited' ? plaque.visited :
       !plaque.visited;
     
+    const matchesLocation =
+      filterLocation === 'all' ? true :
+      plaque.cityCentre;
+    
     const matchesSearch = 
       plaque.title.toLowerCase().includes(searchTerm.toLowerCase()) ||
       plaque.location.toLowerCase().includes(searchTerm.toLowerCase());
     
-    return matchesFilter && matchesSearch;
+    return matchesFilter && matchesLocation && matchesSearch;
   });
 
   const handlePlaqueClick = (plaque) => {
@@ -247,25 +256,48 @@ function App() {
           />
         </div>
 
-        <div className="filter-buttons">
-          <button 
-            className={`filter-btn ${filterStatus === 'all' ? 'active' : ''}`}
-            onClick={() => setFilterStatus('all')}
-          >
-            All ({totalCount})
-          </button>
-          <button 
-            className={`filter-btn ${filterStatus === 'visited' ? 'active' : ''}`}
-            onClick={() => setFilterStatus('visited')}
-          >
-            Visited ({visitedCount})
-          </button>
-          <button 
-            className={`filter-btn ${filterStatus === 'unvisited' ? 'active' : ''}`}
-            onClick={() => setFilterStatus('unvisited')}
-          >
-            Not Visited ({totalCount - visitedCount})
-          </button>
+        <div className="filter-section">
+          <div className="filter-group">
+            <label className="filter-label">Location:</label>
+            <div className="filter-buttons">
+              <button 
+                className={`filter-btn ${filterLocation === 'citycentre' ? 'active' : ''}`}
+                onClick={() => setFilterLocation('citycentre')}
+              >
+                City Centre ({plaques.filter(p => p.cityCentre).length})
+              </button>
+              <button 
+                className={`filter-btn ${filterLocation === 'all' ? 'active' : ''}`}
+                onClick={() => setFilterLocation('all')}
+              >
+                All Leeds ({plaques.length})
+              </button>
+            </div>
+          </div>
+
+          <div className="filter-group">
+            <label className="filter-label">Status:</label>
+            <div className="filter-buttons">
+              <button 
+                className={`filter-btn ${filterStatus === 'all' ? 'active' : ''}`}
+                onClick={() => setFilterStatus('all')}
+              >
+                All ({totalCount})
+              </button>
+              <button 
+                className={`filter-btn ${filterStatus === 'visited' ? 'active' : ''}`}
+                onClick={() => setFilterStatus('visited')}
+              >
+                Visited ({visitedCount})
+              </button>
+              <button 
+                className={`filter-btn ${filterStatus === 'unvisited' ? 'active' : ''}`}
+                onClick={() => setFilterStatus('unvisited')}
+              >
+                Not Visited ({totalCount - visitedCount})
+              </button>
+            </div>
+          </div>
         </div>
       </div>
 

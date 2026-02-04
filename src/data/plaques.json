@@ -7,7 +7,8 @@
     "date": "27 Nov '87",
     "sponsor": "Leeds & Holbeck Building Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 2,
@@ -17,7 +18,8 @@
     "date": "13 Oct '88",
     "sponsor": "British Waterways Board",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 3,
@@ -27,7 +29,8 @@
     "date": "14 Oct '88",
     "sponsor": "British Broadcasting Corporation",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 4,
@@ -37,7 +40,8 @@
     "date": "14 Feb '89",
     "sponsor": "Kay & Company Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 5,
@@ -47,7 +51,8 @@
     "date": "24 Feb '89",
     "sponsor": "MEPC plc",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 6,
@@ -57,7 +62,8 @@
     "date": "25 Apr '89",
     "sponsor": "Joshua Tetley & Sons Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 7,
@@ -67,7 +73,8 @@
     "date": "27 Apr '89",
     "sponsor": "Mr Bruce Bettison, then Owner of Waterloo Antiques",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 8,
@@ -77,7 +84,8 @@
     "date": "May '89",
     "sponsor": "Lawrence Bellhouse, Proprietor, Nash's Tudor Fish Restaurant",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 9,
@@ -87,7 +95,8 @@
     "date": "20 Jul '89",
     "sponsor": "Trinity Services (Developers)",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 10,
@@ -97,7 +106,8 @@
     "date": "19 Sept '89",
     "sponsor": "Bond Street Shopping Centre Merchants' Association",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 11,
@@ -107,7 +117,8 @@
     "date": "21 Sept '89",
     "sponsor": "Simpson Curtis Solicitors",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 12,
@@ -117,7 +128,8 @@
     "date": "26 Sept '89",
     "sponsor": "Joshua Tetley & Sons Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 13,
@@ -127,7 +139,8 @@
     "date": "3 Oct '89",
     "sponsor": "Norwich Union Insurance Group",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 14,
@@ -137,7 +150,8 @@
     "date": "30 Oct '89",
     "sponsor": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 15,
@@ -147,7 +161,8 @@
     "date": "10 Nov '89",
     "sponsor": "Crown Hotels",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 16,
@@ -157,7 +172,8 @@
     "date": "1 Feb '90",
     "sponsor": "Yorkshire Bank plc",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 17,
@@ -167,7 +183,8 @@
     "date": "March '90",
     "sponsor": "Leeds Law Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 18,
@@ -177,7 +194,8 @@
     "date": "12 Mar '90",
     "sponsor": "Medical Faculty of the General Infirmary at Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 19,
@@ -187,7 +205,8 @@
     "date": "3 Apr '90",
     "sponsor": "Faculty of Medicine, University of Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 20,
@@ -197,7 +216,8 @@
     "date": "2 May '90",
     "sponsor": "Brian Prideaux, Property Developer",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 21,
@@ -207,7 +227,8 @@
     "date": "3 May '90",
     "sponsor": "Len Davis, Leeds Canal Basin (Development) Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 22,
@@ -217,7 +238,8 @@
     "date": "11 May '90",
     "sponsor": "Bank of England",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 23,
@@ -227,7 +249,8 @@
     "date": "17 Jan '91",
     "sponsor": "A.S.L.E. & F.",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 24,
@@ -237,7 +260,8 @@
     "date": "3 Feb '91",
     "sponsor": "The United Hebrew Congregation",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 25,
@@ -247,7 +271,8 @@
     "date": "28 Mar '91",
     "sponsor": "Leeds & Holbeck Building Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 26,
@@ -257,7 +282,8 @@
     "date": "91",
     "sponsor": "The British Deaf Association",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 27,
@@ -267,7 +293,8 @@
     "date": "16 May '91",
     "sponsor": "Hepworth & Chadwick, Solicitors",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 28,
@@ -277,7 +304,8 @@
     "date": "20 Jun '91",
     "sponsor": "University of Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 29,
@@ -287,7 +315,8 @@
     "date": "18 Jul '91",
     "sponsor": "Members of the Grimshaw family and North Hyde Park Neighbourhood Association",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 30,
@@ -297,7 +326,8 @@
     "date": "29 Aug '91",
     "sponsor": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 31,
@@ -307,7 +337,8 @@
     "date": "24 Sept '91",
     "sponsor": "Speciality Shops plc",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 32,
@@ -317,7 +348,8 @@
     "date": "29 Jan '92",
     "sponsor": "Joshua Tetley & Sons",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 33,
@@ -327,7 +359,8 @@
     "date": "6 Oct '92",
     "sponsor": "The Thoresby Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 34,
@@ -337,7 +370,8 @@
     "date": "2 Mar '93",
     "sponsor": "Arthur Ransome Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 35,
@@ -347,7 +381,8 @@
     "date": "20 Apr '93",
     "sponsor": "Tay Homes and British Waterways",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 36,
@@ -357,7 +392,8 @@
     "date": "27 Apr '93",
     "sponsor": "Leeds Corporation and British Rail's Community Unit",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 37,
@@ -367,7 +403,8 @@
     "date": "25 May '93",
     "sponsor": "Leeds Development Corporation",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 38,
@@ -377,7 +414,8 @@
     "date": "29 Mar '94",
     "sponsor": "Leeds & Holbeck Building Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 39,
@@ -387,7 +425,8 @@
     "date": "25 May '94",
     "sponsor": "Leeds Development Corporation and Jonathan Wix, the owner of 42 The Calls",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 40,
@@ -397,7 +436,8 @@
     "date": "21 Oct '94",
     "sponsor": "British Cement Association",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 41,
@@ -407,7 +447,8 @@
     "date": "2 Mar '95",
     "sponsor": "Mr & Mrs Peter Hartley, Hillards Charitable Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 42,
@@ -417,7 +458,8 @@
     "date": "23 Apr '95",
     "sponsor": "Mr Noel Squires, Landlord of the New Roscoe Inn",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 43,
@@ -427,7 +469,8 @@
     "date": "23 May '95",
     "sponsor": "Professor Neville Rowell",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 44,
@@ -437,7 +480,8 @@
     "date": "14 Oct '95",
     "sponsor": "Yorkshire County Cricket Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 45,
@@ -447,7 +491,8 @@
     "date": "5 Mar '96",
     "sponsor": "The Henry Moore Foundation",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 46,
@@ -457,7 +502,8 @@
     "date": "8 Dec '96",
     "sponsor": "Mr Edward Ziff, Town Centre Securities",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 47,
@@ -467,7 +513,8 @@
     "date": "27 Mar '97",
     "sponsor": "Friends of the City Varieties",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 48,
@@ -477,7 +524,8 @@
     "date": "16 Sept '97",
     "sponsor": "Leeds City Council",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 49,
@@ -487,7 +535,8 @@
     "date": "11 Feb '98",
     "sponsor": "Thackray Medical Museum",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 50,
@@ -497,17 +546,19 @@
     "date": "7 Apr '98",
     "sponsor": "William H Brown Estate Agents",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 51,
     "title": "Golden Acre Park",
-    "location": "On the outside wall of the café in Golden Acre Park at Otley Road, Leeds LS16 8BQ",
+    "location": "On the outside wall of the caf\u00e9 in Golden Acre Park at Otley Road, Leeds LS16 8BQ",
     "unveiler": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
     "date": "25 Aug '98",
     "sponsor": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 52,
@@ -517,7 +568,8 @@
     "date": "11 Sept '98",
     "sponsor": "Mr & Mrs David Kaye, Publishers of the Funeral Services Journal",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 53,
@@ -527,7 +579,8 @@
     "date": "2 Oct '98",
     "sponsor": "The Rushbond Group",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 54,
@@ -537,7 +590,8 @@
     "date": "11 Feb '99",
     "sponsor": "Moortown Golf Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 55,
@@ -547,7 +601,8 @@
     "date": "12 Mar '99",
     "sponsor": "Caddick Developments and Carey Jones, Architects",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 56,
@@ -557,7 +612,8 @@
     "date": "28 Mar '99",
     "sponsor": "DTZ Debenham Thorpe",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 57,
@@ -567,7 +623,8 @@
     "date": "17 July '99",
     "sponsor": "Country & Metropolitan Homes Northern Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 58,
@@ -577,7 +634,8 @@
     "date": "10 Dec '99",
     "sponsor": "Bramall Construction",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 59,
@@ -587,7 +645,8 @@
     "date": "1 Oct '99",
     "sponsor": "Park Lane College",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 60,
@@ -597,7 +656,8 @@
     "date": "2 May 2000",
     "sponsor": "The Prudential Insurance Company",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 61,
@@ -607,7 +667,8 @@
     "date": "8 July 2000",
     "sponsor": "Councillor David Hudson who represents Wetherby District on Leeds City Council",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 62,
@@ -617,7 +678,8 @@
     "date": "27 Nov 2000",
     "sponsor": "Professor Neville Rowell, Vice-President, Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 63,
@@ -627,7 +689,8 @@
     "date": "14 Dec 2000",
     "sponsor": "Richard Wainwright",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 64,
@@ -637,7 +700,8 @@
     "date": "30 Mar '01",
     "sponsor": "The Burton Family",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 65,
@@ -647,7 +711,8 @@
     "date": "01",
     "sponsor": "Leeds Metropolitan University",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 66,
@@ -657,7 +722,8 @@
     "date": "01",
     "sponsor": "Leeds Metropolitan University",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 67,
@@ -667,17 +733,19 @@
     "date": "28 Jun '01",
     "sponsor": "Leeds Philosophical and Literary Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 68,
     "title": "Smithfield Ironworks",
-    "location": "90–94 North Street Leeds LS2 7PN",
+    "location": "90\u201394 North Street Leeds LS2 7PN",
     "unveiler": "Councillor David Hudson, Lord Mayor of Leeds",
     "date": "15 Jul '01",
     "sponsor": "Road Roller Association",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 69,
@@ -687,7 +755,8 @@
     "date": "Oct 01",
     "sponsor": "Leeds Metropolitan University",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 70,
@@ -697,7 +766,8 @@
     "date": "16 Jan '02",
     "sponsor": "Brown's Restaurant",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 71,
@@ -707,7 +777,8 @@
     "date": "27 Feb '02",
     "sponsor": "Friends of Swarthmore Education Centre and Little Woodhouse Community Association",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 72,
@@ -717,7 +788,8 @@
     "date": "10 Jun '02",
     "sponsor": "Leeds City Council",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 73,
@@ -727,7 +799,8 @@
     "date": "3 Jul '02",
     "sponsor": "J. Olav Arnold and Family",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 74,
@@ -737,7 +810,8 @@
     "date": "7 Oct '02",
     "sponsor": "Leeds Grammar School",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 75,
@@ -747,7 +821,8 @@
     "date": "30 Oct '02",
     "sponsor": "Yorkshire Archaeological Society and Mrs I. A. J. Moses",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 76,
@@ -757,7 +832,8 @@
     "date": "27 Jan '03",
     "sponsor": "The Faculty of the General Infirmary at Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 77,
@@ -767,7 +843,8 @@
     "date": "15 Apr '03",
     "sponsor": "Samuel Ledgard Society and the Ledgard Family",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 78,
@@ -777,7 +854,8 @@
     "date": "20 May '03",
     "sponsor": "Frank Kidson Memorial Fund",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 79,
@@ -787,7 +865,8 @@
     "date": "15 Jun '03",
     "sponsor": "The Leeds & District Traction Engine Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 80,
@@ -797,7 +876,8 @@
     "date": "15 Jun '03",
     "sponsor": "The Leeds & District Traction Engine Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 81,
@@ -807,7 +887,8 @@
     "date": "10 Sept '03",
     "sponsor": "Angel Group plc",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 82,
@@ -817,7 +898,8 @@
     "date": "21 Sept '03",
     "sponsor": "Don Townsley, a former executive of the Company",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 83,
@@ -827,7 +909,8 @@
     "date": "21 Oct '03",
     "sponsor": "Urban Edge Group",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 84,
@@ -837,7 +920,8 @@
     "date": "20 Nov '03",
     "sponsor": "CALA Homes (Yorkshire) Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 85,
@@ -847,7 +931,8 @@
     "date": "28 Nov '03",
     "sponsor": "Trustees of Kirke's Charity, Esporta Health and Fitness Club, and Leeds City Council.",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 86,
@@ -857,7 +942,8 @@
     "date": "4 Dec '03",
     "sponsor": "J Pullan & Sons Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 87,
@@ -867,7 +953,8 @@
     "date": "27 Mar '04",
     "sponsor": "Middleton Railway Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 88,
@@ -877,7 +964,8 @@
     "date": "15 May '04",
     "sponsor": "Tandridge Investments Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 89,
@@ -887,7 +975,8 @@
     "date": "26 May '04",
     "sponsor": "Philip Snaith",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 90,
@@ -897,7 +986,8 @@
     "date": "13 July '04",
     "sponsor": "The Wainwright family",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 91,
@@ -907,7 +997,8 @@
     "date": "8 Dec '04",
     "sponsor": "Mr. Bob Isle,Honorary Secretary of The Leeds Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 92,
@@ -917,7 +1008,8 @@
     "date": "26 Jan '05",
     "sponsor": "Mount St Mary's Catholic High School",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 93,
@@ -927,7 +1019,8 @@
     "date": "8 Jun '05",
     "sponsor": "Westward Care (Yorkshire) Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 94,
@@ -937,7 +1030,8 @@
     "date": "21 Jun '05",
     "sponsor": "Friends of Roundhay Park",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 95,
@@ -947,7 +1041,8 @@
     "date": "27 Jun '05",
     "sponsor": "Jointly: Alwoodley Golf Club and Moortown Golf Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 96,
@@ -957,7 +1052,8 @@
     "date": "6 Sept '05",
     "sponsor": "Professor Neville Rowell Vice-President, Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 97,
@@ -967,7 +1063,8 @@
     "date": "6 Oct '05",
     "sponsor": "Smeatonian Society of Civil Engineers",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 98,
@@ -977,7 +1074,8 @@
     "date": "7 Dec '05",
     "sponsor": "The Faculty at the General Infirmary at Leeds.",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 99,
@@ -987,7 +1085,8 @@
     "date": "24 Apr '06",
     "sponsor": "Mr and Mrs David Kaye",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 100,
@@ -997,7 +1096,8 @@
     "date": "23 May '06",
     "sponsor": "Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 101,
@@ -1007,7 +1107,8 @@
     "date": "7 Jun '06",
     "sponsor": "The Oulton Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 102,
@@ -1017,7 +1118,8 @@
     "date": "17 Jun '06",
     "sponsor": "University of Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 103,
@@ -1027,7 +1129,8 @@
     "date": "8 Nov '06",
     "sponsor": "Reserve forces and Cadets Association for Yorkshire and the Humber",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 104,
@@ -1037,7 +1140,8 @@
     "date": "1 Mar '07",
     "sponsor": "Leeds Co-operative Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 105,
@@ -1047,7 +1151,8 @@
     "date": "6 June '07",
     "sponsor": "Various individual sponsors",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 106,
@@ -1057,7 +1162,8 @@
     "date": "17 June '07",
     "sponsor": "The Leeds & District Traction Engine Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 107,
@@ -1067,7 +1173,8 @@
     "date": "4 Sept '07",
     "sponsor": "The Leeds Library",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 108,
@@ -1077,7 +1184,8 @@
     "date": "28 Sept '07",
     "sponsor": "Turton family",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 109,
@@ -1087,7 +1195,8 @@
     "date": "27 Nov '07",
     "sponsor": "Engineering Plastic Supplies Ltd, Bramley",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 110,
@@ -1097,7 +1206,8 @@
     "date": "29 Jan '08",
     "sponsor": "Prof. Neville Rowell",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 111,
@@ -1107,7 +1217,8 @@
     "date": "26 June '08",
     "sponsor": "BBC Radio Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 112,
@@ -1117,7 +1228,8 @@
     "date": "27 July '08",
     "sponsor": "Bramley History Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 113,
@@ -1127,7 +1239,8 @@
     "date": "2 Dec '08",
     "sponsor": "Stephen McGrail and family (Goldthorpe descendants)",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 114,
@@ -1137,7 +1250,8 @@
     "date": "Dec '08",
     "sponsor": "Joe Hester",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 115,
@@ -1147,7 +1261,8 @@
     "date": "7 Feb '09",
     "sponsor": "Gledhow Valley Conservation Area Group and Tillasu Estates",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 116,
@@ -1157,7 +1272,8 @@
     "date": "12 Feb '09",
     "sponsor": "University of Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 117,
@@ -1167,7 +1283,8 @@
     "date": "20 Apr '09",
     "sponsor": "Land Securities",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 118,
@@ -1177,7 +1294,8 @@
     "date": "5 June '09",
     "sponsor": "Wortley Local History Group",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 119,
@@ -1187,7 +1305,8 @@
     "date": "19 Aug '09",
     "sponsor": "Yorkshire County Cricket Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 120,
@@ -1197,7 +1316,8 @@
     "date": "6 Oct '09",
     "sponsor": "Adel Grange Residential Home",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 121,
@@ -1207,7 +1327,8 @@
     "date": "27 Jan '10",
     "sponsor": "Daniel Gill of Dine",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 122,
@@ -1217,7 +1338,8 @@
     "date": "4 Sept '10",
     "sponsor": "Residents of Larchwood",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 123,
@@ -1227,7 +1349,8 @@
     "date": "9 Sept '10",
     "sponsor": "Leeds Area Meeting of the Religious Society of Friends (Quakers)",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 124,
@@ -1237,17 +1360,19 @@
     "date": "26 Nov '10",
     "sponsor": "Thackray Museum",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 125,
-    "title": "The Crucible of Darts – The Pioneering of Televised Darts in Leeds",
+    "title": "The Crucible of Darts \u2013 The Pioneering of Televised Darts in Leeds",
     "location": "The Leeds Irish Centre, York Road, Leeds, LS9 9NT.",
     "unveiler": "Sid Waddell",
     "date": "1 Dec '10",
     "sponsor": "Sky Sports Publicity",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 126,
@@ -1257,7 +1382,8 @@
     "date": "20 Jan '11",
     "sponsor": "Leeds Odd Fellows",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 127,
@@ -1267,7 +1393,8 @@
     "date": "18 May '11",
     "sponsor": "Chapeltown Heritage Advisory Group",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 128,
@@ -1277,7 +1404,8 @@
     "date": "25 June '11",
     "sponsor": "Sue Ryder Prayer Fellowship",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 129,
@@ -1287,7 +1415,8 @@
     "date": "5 July '11",
     "sponsor": "Beeston & Holbeck Ward Concillors, Adam Ogilvie, David Congreve and Angela Gabriel; and Ivy Benson fans Jenna Bailey, Veronica Lovell and Doug Sandle",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 130,
@@ -1297,7 +1426,8 @@
     "date": "25 July '11",
     "sponsor": "MEPC",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 131,
@@ -1307,17 +1437,19 @@
     "date": "21 Oct '11",
     "sponsor": "Chapeltown Heritage Advisory Group",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 132,
     "title": "Salem United Reform Church",
-    "location": "11 – 15 Hunslet Road, Leeds, LS10 1JW",
+    "location": "11 \u2013 15 Hunslet Road, Leeds, LS10 1JW",
     "unveiler": "Lord Mayor of Leeds, Councillor Rev'd Alan Taylor",
     "date": "17 Nov '11",
     "sponsor": "aql Limited",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 133,
@@ -1327,7 +1459,8 @@
     "date": "12 Feb '12",
     "sponsor": "Diocese of Ripon & Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 134,
@@ -1337,7 +1470,8 @@
     "date": "14 Mar '12",
     "sponsor": "Unity Housing Association",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 135,
@@ -1347,7 +1481,8 @@
     "date": "15 May '12",
     "sponsor": "Ben Read",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 136,
@@ -1357,7 +1492,8 @@
     "date": "12 July '12",
     "sponsor": "Rushbond plc",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 137,
@@ -1367,7 +1503,8 @@
     "date": "29 July '12",
     "sponsor": "Far Headingley Village Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 138,
@@ -1377,7 +1514,8 @@
     "date": "1 Oct '12",
     "sponsor": "The Tolkien Society and the University of Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 139,
@@ -1387,7 +1525,8 @@
     "date": "14 Oct '12",
     "sponsor": "The United Hebrew Congregation",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 140,
@@ -1397,7 +1536,8 @@
     "date": "20 Nov '12",
     "sponsor": "Leeds Commercial Limited",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 141,
@@ -1407,7 +1547,8 @@
     "date": "14 Apr '13",
     "sponsor": "British ORT",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 142,
@@ -1417,7 +1558,8 @@
     "date": "1 May '13",
     "sponsor": "Unison, Unite, and GMB",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 143,
@@ -1427,7 +1569,8 @@
     "date": "16 Jul '13",
     "sponsor": "Zurich Assurance Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 144,
@@ -1437,7 +1580,8 @@
     "date": "23 Jul '13",
     "sponsor": "Family and friends of the late Martin James Frazer",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 145,
@@ -1447,7 +1591,8 @@
     "date": "6 Oct '13",
     "sponsor": "The Methodist Church Leeds District",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 146,
@@ -1457,7 +1602,8 @@
     "date": "8 Nov '13",
     "sponsor": "Leeds Rugby Foundation",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 147,
@@ -1467,7 +1613,8 @@
     "date": "7 May '14",
     "sponsor": "Weetwood Hall Conference Centre & Hotel",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 148,
@@ -1477,7 +1624,8 @@
     "date": "28 May '14",
     "sponsor": "The late Irene Revie",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 149,
@@ -1487,7 +1635,8 @@
     "date": "8 Jun '14",
     "sponsor": "Morley Town Council, Morley Town Centre Management Board and Leeds City Council Outer South Area Committee Well-being Fund",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 150,
@@ -1497,7 +1646,8 @@
     "date": "25 Jun '14",
     "sponsor": "Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 151,
@@ -1507,7 +1657,8 @@
     "date": "4 Dec '14",
     "sponsor": "Leeds and District Traction Engine Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 152,
@@ -1517,7 +1668,8 @@
     "date": "20 April '15",
     "sponsor": "Bellway Homes East Leeds Historical & Archaeological Society Leeds Civic Trust Members",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 153,
@@ -1527,7 +1679,8 @@
     "date": "30 April '15",
     "sponsor": "Members & friends of Leeds Civic Trust. Bramley Ward Councillors.",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 154,
@@ -1537,7 +1690,8 @@
     "date": "9 June '15",
     "sponsor": "Prof Neville Rowell",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 155,
@@ -1547,17 +1701,19 @@
     "date": "16 Oct '15",
     "sponsor": "Mrs D Abson and her late husband.",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 156,
     "title": "Leeds Civic Trust 50th Anniversary Plaque / Charles Crabtree",
     "location": "17-19 Wharf Street, LS2 7EQ",
-    "unveiler": "Mrs Elizabeth Dalziel – granddaughter of Charles Crabtree.",
+    "unveiler": "Mrs Elizabeth Dalziel \u2013 granddaughter of Charles Crabtree.",
     "date": "21 Oct '15",
     "sponsor": "Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 157,
@@ -1567,7 +1723,8 @@
     "date": "7 Nov '15",
     "sponsor": "Gledhow Valley Conservation Area Group",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 158,
@@ -1577,7 +1734,8 @@
     "date": "6 July '16",
     "sponsor": "Dr Jon Wood & Dr Julia Kelly",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 159,
@@ -1585,9 +1743,10 @@
     "location": "17A East Parade, LS1",
     "unveiler": "LCC Leader, Cllr. Judith Blake",
     "date": "13 Sept '16",
-    "sponsor": "Ibérica Restaurants Ltd",
+    "sponsor": "Ib\u00e9rica Restaurants Ltd",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 160,
@@ -1597,7 +1756,8 @@
     "date": "19 Oct '16",
     "sponsor": "Leeds City Council",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 161,
@@ -1607,7 +1767,8 @@
     "date": "30 Oct' 16",
     "sponsor": "Pudsey St. Lawrence Cricket Club",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 162,
@@ -1617,7 +1778,8 @@
     "date": "27 Apr' 17",
     "sponsor": "AIG Global Real Estates",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 163,
@@ -1627,7 +1789,8 @@
     "date": "5 May '17",
     "sponsor": "The Kenneth Armitage Foundation",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 164,
@@ -1637,7 +1800,8 @@
     "date": "30 Oct '17",
     "sponsor": "Professor Neville Rowell",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 165,
@@ -1647,7 +1811,8 @@
     "date": "3 Mar '18",
     "sponsor": "Crowd funded by members of the public",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 166,
@@ -1657,7 +1822,8 @@
     "date": "23 Mar '18",
     "sponsor": "Leeds Phil & Lit Society; Morley Monday Club; Institute of Physics; Society for the History of Astronomy; Leeds Astronomical Society",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 167,
@@ -1667,7 +1833,8 @@
     "date": "10 Apr '18",
     "sponsor": "Jointly by Diocese of Leeds and Leeds Minster",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 168,
@@ -1677,7 +1844,8 @@
     "date": "1 Jun '18",
     "sponsor": "Leeds Teaching Hospitals NHS Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 169,
@@ -1687,7 +1855,8 @@
     "date": "10 Sept '18",
     "sponsor": "Workman LLP",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 170,
@@ -1697,7 +1866,8 @@
     "date": "5 Oct '18",
     "sponsor": "Morley Town Centre Management & Morley Community Archives",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 171,
@@ -1707,7 +1877,8 @@
     "date": "27 Oct '18",
     "sponsor": "Duncan McCargo",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 172,
@@ -1717,7 +1888,8 @@
     "date": "10 Feb '19",
     "sponsor": "Rushbond plc, The University of Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 173,
@@ -1727,7 +1899,8 @@
     "date": "11 Feb '19",
     "sponsor": "Leeds United FC; Leeds United Supporters Trust; Cllr Dowson",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 174,
@@ -1737,7 +1910,8 @@
     "date": "11 Jul 19",
     "sponsor": "Linda O Carroll",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 175,
@@ -1747,7 +1921,8 @@
     "date": "11 Jul 19",
     "sponsor": "The Chambers",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 177,
@@ -1757,7 +1932,8 @@
     "date": "13 Sep 19",
     "sponsor": "Holbeck WMC",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 178,
@@ -1767,7 +1943,8 @@
     "date": "21 Sep 19",
     "sponsor": "Leeds City Council",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 179,
@@ -1777,7 +1954,8 @@
     "date": "4 Oct 19",
     "sponsor": "Morley Town Centre Management & Morley Community Archives",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 180,
@@ -1787,7 +1965,8 @@
     "date": "6 Mar 19",
     "sponsor": "Leeds Libraries and Hunslet & Riverside Ward Councillors",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 181,
@@ -1797,7 +1976,8 @@
     "date": "May 20",
     "sponsor": "Family",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 182,
@@ -1807,7 +1987,8 @@
     "date": "20 July 21",
     "sponsor": "DAC Beachcroft",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 183,
@@ -1817,7 +1998,8 @@
     "date": "10 Sept 21",
     "sponsor": "Leeds Civic Trust",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 184,
@@ -1827,7 +2009,8 @@
     "date": "10 Oct 21",
     "sponsor": "Jeremy Burton",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 185,
@@ -1837,7 +2020,8 @@
     "date": "8 Mar 22",
     "sponsor": "University of Leeds",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 186,
@@ -1847,7 +2031,8 @@
     "date": "25 Apr 22",
     "sponsor": "DOMA",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": true
   },
   {
     "id": 187,
@@ -1857,7 +2042,8 @@
     "date": "2 Aug 22",
     "sponsor": "Morley Town Centre Management & Morley Community Archives",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 188,
@@ -1867,7 +2053,8 @@
     "date": "29 Mar 23",
     "sponsor": "Leeds Piano Competition",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 189,
@@ -1877,7 +2064,8 @@
     "date": "9 June 23",
     "sponsor": "Irwin Mitchell LLP",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 190,
@@ -1887,7 +2075,8 @@
     "date": "9 Sep 23",
     "sponsor": "Bramley Baths",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 191,
@@ -1897,7 +2086,8 @@
     "date": "16 Sep 23",
     "sponsor": "Anonymous",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 192,
@@ -1907,7 +2097,8 @@
     "date": "15 Mar 24",
     "sponsor": "The Faculty of Social Sciences and the Centre for Interdisciplinary Gender Studies",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 193,
@@ -1917,7 +2108,8 @@
     "date": "17 April 24",
     "sponsor": "Funding for the plaque was from donations gratefully received from the people Leeds and beyond.",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 194,
@@ -1927,7 +2119,8 @@
     "date": "24 May 24",
     "sponsor": "Funding for the plaque was from donations gratefully received from the people of Leeds and beyond.",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 195,
@@ -1937,7 +2130,8 @@
     "date": "05 June 24",
     "sponsor": "TCV",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 196,
@@ -1947,7 +2141,8 @@
     "date": "07 Sep 24",
     "sponsor": "Leeds Bid and Horsforth Cllr",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 197,
@@ -1957,7 +2152,8 @@
     "date": "14 Sept 24",
     "sponsor": "Funding for the plaque was from donations gratefully received from the people of Leeds and beyond.",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 198,
@@ -1967,7 +2163,8 @@
     "date": "29 Sept 24",
     "sponsor": "Stand up to Racism: Funding for the plaque was from donations gratefully received from the people of Leeds and beyond",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 199,
@@ -1977,7 +2174,8 @@
     "date": "01 Oct 24",
     "sponsor": "Leeds University",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   },
   {
     "id": 200,
@@ -1987,6 +2185,7 @@
     "date": "04 Oct 24",
     "sponsor": "Northern School of Contemporary Dance",
     "visited": false,
-    "imageUrl": null
+    "imageUrl": null,
+    "cityCentre": false
   }
 ]
